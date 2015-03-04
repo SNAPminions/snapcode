@@ -1,0 +1,1094 @@
+<root>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/761961</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-30548 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0306 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/506985</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-30968 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0855 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/584387</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-30970 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0885 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/499069</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-33691 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1595 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/540280</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-51925 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0374 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/669065</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V1-51927 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0375 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/766771</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V2-54684 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-h-0122 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/668390</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V2-54685 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-h-0121 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/632328</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-8473 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0174 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/544293</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-8961 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0818 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/491019</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-9366 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0290 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/558691</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-9919 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0301 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/510075</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-9920 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0302 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/695761</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-10721 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0372 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/468592</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-20873 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0873 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/553950</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-20874 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1004 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/561573</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-20876 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1005 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/623591</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-23938 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-g-0132 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/510681</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3a-35193 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0430 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/702547</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3b-35798 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0330 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/605678</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V3b-35799 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0331 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/658678</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-8820 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1552 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/580749</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-8821 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1554 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/763748</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-8822 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1555 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/635080</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-8836 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1553 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/625211</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-10334 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-m-0690 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/765114</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-10518 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-m-0692 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/526985</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-11578 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0472 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/516258</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12008 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-1115 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/551130</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12099 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0058 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/504294</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12100 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0060 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/579919</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12101 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0059 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/577798</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12150 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0067 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/519645</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12151 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0068 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/720170</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12152 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0517 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/678003</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-12207 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0203 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/615577</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-13843 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0689 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/601639</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-15304 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0284 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/630319</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-16240 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1197 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/608726</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-16274 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1265 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/572553</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-17879 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0300 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/601986</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-18874 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0360 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/648494</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-18886 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0089 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/503636</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-19335 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1556 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/708841</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-19336 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0276 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/631941</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-19337 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0277 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/679689</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-19680 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-m-0107 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/472558</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21422 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0061 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/750923</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21423 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0512 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/652313</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21424 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0513 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/575156</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21425 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0514 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/476981</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21426 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0062 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/601010</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21428 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0064 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/554886</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21451 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0516 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/753898</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21615 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0550 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/693785</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-21616 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0551 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/535068</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-22152 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0602 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/563588</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-22484 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0343 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/732511</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V4-25161 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0736 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/747502</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-1092 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0506 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/602936</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4411 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1449 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/672246</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4469 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1471 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/569963</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4592 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-d-0134 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/707205</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4712 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0219 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/503239</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4790 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0216 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/748280</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-4904 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0486 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/575858</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-5445 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0847 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/693708</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-5452 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0845 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/616598</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-5453 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0846 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/758350</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-5736 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0492 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/762100</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-6141 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0862 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/586320</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-8087 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-d-0168 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/610035</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-8317 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0961 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/652641</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-8338 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0554 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/702266</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-8342 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0968 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/529018</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-10913 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0905 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/475141</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-10914 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0906 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/518069</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-10915 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0155 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/508010</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-11624 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0145 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/571830</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-11696 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0789 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/571198</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-12679 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0800 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/677798</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-13036 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-g-0024 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/565963</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-14265 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0262 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/564914</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-14558 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-1527 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/583687</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16284 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0021 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/486884</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16285 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0022 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/711979</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16330 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0507 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/553376</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16782 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0025 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/600014</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16783 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0026 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/561269</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16784 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0027 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/565118</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16785 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-q-0024 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/496282</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-16830 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-m-0195 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/758029</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-18460 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0780 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/751801</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-18462 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0781 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/558735</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-18622 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0436 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/737746</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-18841 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0944 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/680224</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-18869 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0226 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/475440</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-19432 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0962 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/597419</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-19882 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0691 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/656384</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-19962 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1637 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/722784</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-20830 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0707 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/481487</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-21202 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0326 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/716658</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-21226 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0831 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/620232</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-21227 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0263 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/627673</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38823 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0243 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/573467</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38824 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0251 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/616204</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38825 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0252 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/678048</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38826 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0308 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/586310</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38827 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0320 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/589155</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38829 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0328 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/542872</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38830 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0329 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/546803</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38831 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0370 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/549700</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38833 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0392 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/510389</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38834 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0393 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/553397</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38835 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0394 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/653284</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38836 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0410 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/561332</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38837 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0414 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/512060</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38839 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0427 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/480152</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38840 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0431 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/521882</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38841 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0432 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/733920</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38842 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0433 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/487010</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38843 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-h-0124 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/741542</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38844 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-o-0081 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/481226</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38845 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-o-0089 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/580948</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38846 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-o-0090 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/484118</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38847 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0274 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/545815</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38848 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0590 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/752648</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38849 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0614 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/670452</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38850 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0615 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/727587</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38851 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0616 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/673758</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38852 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0711 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/474830</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38854 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0137 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/681728</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38855 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0210 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/688937</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38857 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0242 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/485273</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38858 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-NaN ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/691920</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38859 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0177 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/607737</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38860 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0465 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/650858</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38861 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-NaN ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/610861</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38862 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0600 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/715378</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38864 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0686 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/708542</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38866 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0768 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/626555</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38867 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0788 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/711366</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38868 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0791 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/614818</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38869 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0838 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/509403</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38870 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0876 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/552360</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38871 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0881 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/513102</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38872 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0902 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/555313</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38873 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0965 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/654584</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38874 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1040 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/557934</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38875 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1044 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/513346</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38877 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1075 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/613965</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38878 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1084 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/735758</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38880 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1094 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/489508</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38881 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1137 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/738660</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38882 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1141 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/478369</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38883 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1328 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/577499</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38884 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1329 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/485745</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38885 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1627 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/547454</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38886 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-s-0653 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/666296</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-38983 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-s-0252 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/656632</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39009 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-s-0789 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/681648</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39061 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-0998 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/506948</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39122 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0285 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/521659</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39186 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0253 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/526795</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39187 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-g-0170 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/529608</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39189 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-n-0071 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/655065</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39191 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-r-0199 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/570195</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-39204 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-h-0203 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/754113</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-43225 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0168 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/652907</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-44193 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0517 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/610570</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-45002 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-a-0821 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/636467</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-45424 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0215 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/482451</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-46483 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-s-0580 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/545563</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-47839 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0286 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/508268</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-49017 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0697 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/483794</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-49228 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0260 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/602740</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-50000 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-p-0777 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/494327</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-51714 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-c-1622 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/763518</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-52262 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-i-0479 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/666854</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-52431 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-f-0434 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/605513</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-52485 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-l-0236 ;</dcreplaces>
+  </doc>
+  <doc>
+    <snapid>http://data.snapdrgn.net/person/664678</snapid>
+    <type>rdf:type lawd:Person, snap:MergedResource ;</type>
+    <dcreplaces>dc:replaces http://www.lgpn.ox.ac.uk/id/V5a-52510 ;</dcreplaces>
+    <dcreplaces>dc:replaces http://www.paregorios.org/resources/roman-elites/persons/pir2-d-0191 ;</dcreplaces>
+  </doc>
+</root>

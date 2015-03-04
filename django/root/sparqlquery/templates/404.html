@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>{{ id }} Not Found</title>
+</head>
+<body>
+<h1>Person not found</h1>
+<p>No person matching SNAP identifier <code>{{ id }}</code> is currently available
+in the SNAP database</p>
+
+<p><a href="http://snap.dighum.kcl.ac.uk/query/">SPARQL query page</a></p>
+</body>
+
+<footer>
+<a href="http://snapdrgn.net/">Project home page</a>
+
+{% if test %}
+
+<hr />
+<p><small>
+
+<hr/>
+
+{{ debug }} 
+ 
+ </small>
+ </p>
+ {% endif %}
+ 
+
+
+</footer>
+</html>
