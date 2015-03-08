@@ -40,7 +40,7 @@ def person(request, person_id, content_type='rdf'):
     query = ''
     for prefix in sparql_prefixes_q1:
         query += 'PREFIX ' + prefix + ' '
-    query += 'SELECT DISTINCT ?id { <' + sparql_id_prefix + person_id + '> prov:DerivedFrom ?id }'
+    query += 'SELECT DISTINCT ?id { <' + sparql_id_prefix + person_id + '> prov:wasDerivedFrom ?id }'
 
     data = {sparql_query_key: query}
     headers = {'Accept': 'application/sparql-results+json'}
@@ -78,7 +78,7 @@ def old_person_page(request, person_id):
     query = ''
     for prefix in sparql_prefixes_q1:
         query += 'PREFIX ' + prefix + ' '
-    query += 'SELECT DISTINCT ?id { <' + sparql_id_prefix + person_id + '> prov:DerivedFrom ?id }'
+    query += 'SELECT DISTINCT ?id { <' + sparql_id_prefix + person_id + '> prov:wasDerivedFrom ?id }'
 
     data = {sparql_query_key: query}
     headers = {'Accept': 'application/sparql-results+json'}
@@ -195,7 +195,7 @@ def person_page(request, person_id):
             if o == '':
                 value = s 
 
-                if (rel == 'DerivedFrom' and value != selected_id) or rel != 'DerivedFrom':
+                if (rel == 'wasDerivedFrom' and value != selected_id) or rel != 'wasDerivedFrom':
                     if rel in subject_results:
                         subject_results[rel].add(value)
                     else:
@@ -338,8 +338,8 @@ def test_page(request, person_id):
             if o == '':
                 value = s 
 
-                # KFL - Don't include DerivedFrom self in results (why is this coming up anyway???)
-                if (rel == 'DerivedFrom' and value != selected_id) or rel != 'DerivedFrom':
+                # KFL - Don't include wasDerivedFrom self in results (why is this coming up anyway???)
+                if (rel == 'wasDerivedFrom' and value != selected_id) or rel != 'wasDerivedFrom':
                     if rel in subject_results:
                         if expanded_info == []:
                             subject_results[rel].add(value)
@@ -373,7 +373,7 @@ def get_ids(selected_id):
     query = ''
     for prefix in sparql_prefixes_q1:
         query += 'PREFIX ' + prefix + ' '
-    query += 'SELECT DISTINCT ?id { <' + selected_id + '> prov:DerivedFrom ?id }'
+    query += 'SELECT DISTINCT ?id { <' + selected_id + '> prov:wasDerivedFrom ?id }'
 
     data = {sparql_query_key: query}
     headers = {'Accept': 'application/sparql-results+json'}
