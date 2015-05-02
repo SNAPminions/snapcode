@@ -1,0 +1,28 @@
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix snap:  <http://onto.snapdrgn.net/snap#> .
+@prefix bibo:  <http://purl.org/ontology/bibo/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+<http://www.trismegistos.org>
+        a                    dct:Agent ;
+        dct:description  "An interdisciplinary portal of papyrological and epigraphical resources dealing with Egypt and the Nile valley between roughly 800 BC and AD 800 currently expanding its geographical scope to the Ancient World in general." ;
+        dct:title        "Trismegistos" ;
+        bibo:shortTitle      "TM" ;
+        foaf:homepage        <http://www.trismegistos.org/> .
+
+<http://www.trismegistos.org/ref>
+        a                    prov:Collection ;
+        dct:description  "The People database, building on the Prosopographia Ptolemaica, is a complex set of prosopographical and onomastic databases. It currently contains 493057 attestations of personal names of non-royal individuals living in Egypt between BC 800 and AD 800, including all languages and scripts and written on any surface." ;
+        dct:title        "Trismegistos People" ;
+        bibo:shortTitle      "TM People" ;
+        foaf:homepage        <http://www.trismegistos.org/ref/> .
+
+<http://www.trismegistos.org/authors>
+        a                    prov:Collection ;
+        dct:description  "A database of Ancient Authors and Works by Trismegistos." ;
+        dct:title        "Trismegistos Authors" ;
+        bibo:shortTitle      "TM Authors" ;
+        foaf:homepage        <http://www.trismegistos.org/authors/> .
+        
