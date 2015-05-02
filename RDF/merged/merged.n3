@@ -1,0 +1,1636 @@
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+<http://data.snapdrgn.net/person/673754>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/524067> ;
+dct:replaces <http://data.snapdrgn.net/person/9900> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673755>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/651400> ;
+dct:replaces <http://data.snapdrgn.net/person/5865> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673756>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/612590> ;
+dct:replaces <http://data.snapdrgn.net/person/221> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673757>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/655342> ;
+dct:replaces <http://data.snapdrgn.net/person/4449> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673758>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/483429> ;
+dct:replaces <http://data.snapdrgn.net/person/3691> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673759>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/570398> ;
+dct:replaces <http://data.snapdrgn.net/person/4229> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673760>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/521650> ;
+dct:replaces <http://data.snapdrgn.net/person/597> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673761>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/419345> ;
+dct:replaces <http://data.snapdrgn.net/person/5292> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673762>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/588653> ;
+dct:replaces <http://data.snapdrgn.net/person/5802> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673763>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/481422> ;
+dct:replaces <http://data.snapdrgn.net/person/7708> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673764>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/508012> ;
+dct:replaces <http://data.snapdrgn.net/person/9412> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673765>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/474297> ;
+dct:replaces <http://data.snapdrgn.net/person/7259> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673766>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498554> ;
+dct:replaces <http://data.snapdrgn.net/person/2570> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673767>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/557083> ;
+dct:replaces <http://data.snapdrgn.net/person/5958> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673768>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/519194> ;
+dct:replaces <http://data.snapdrgn.net/person/3767> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673769>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/476694> ;
+dct:replaces <http://data.snapdrgn.net/person/1903> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673770>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/624045> ;
+dct:replaces <http://data.snapdrgn.net/person/10819> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673771>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/441864> ;
+dct:replaces <http://data.snapdrgn.net/person/9764> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673772>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498256> ;
+dct:replaces <http://data.snapdrgn.net/person/4761> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673773>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/402270> ;
+dct:replaces <http://data.snapdrgn.net/person/9152> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673774>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/601939> ;
+dct:replaces <http://data.snapdrgn.net/person/1704> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673775>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/424209> ;
+dct:replaces <http://data.snapdrgn.net/person/6057> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673776>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/463308> ;
+dct:replaces <http://data.snapdrgn.net/person/10056> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673777>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/523174> ;
+dct:replaces <http://data.snapdrgn.net/person/163> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673778>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/587297> ;
+dct:replaces <http://data.snapdrgn.net/person/6852> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673779>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/441051> ;
+dct:replaces <http://data.snapdrgn.net/person/4389> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673780>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/522470> ;
+dct:replaces <http://data.snapdrgn.net/person/9050> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673781>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/490139> ;
+dct:replaces <http://data.snapdrgn.net/person/2857> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673782>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/646741> ;
+dct:replaces <http://data.snapdrgn.net/person/7500> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673783>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/478049> ;
+dct:replaces <http://data.snapdrgn.net/person/9351> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673784>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/501426> ;
+dct:replaces <http://data.snapdrgn.net/person/6739> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673785>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/614818> ;
+dct:replaces <http://data.snapdrgn.net/person/10082> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673786>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/615906> ;
+dct:replaces <http://data.snapdrgn.net/person/8019> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673787>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/493747> ;
+dct:replaces <http://data.snapdrgn.net/person/9497> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673788>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/393486> ;
+dct:replaces <http://data.snapdrgn.net/person/3152> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673789>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/414572> ;
+dct:replaces <http://data.snapdrgn.net/person/5422> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673790>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/445854> ;
+dct:replaces <http://data.snapdrgn.net/person/3761> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673791>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/603930> ;
+dct:replaces <http://data.snapdrgn.net/person/5651> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673792>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/589673> ;
+dct:replaces <http://data.snapdrgn.net/person/9932> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673793>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/449286> ;
+dct:replaces <http://data.snapdrgn.net/person/2808> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673794>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618554> ;
+dct:replaces <http://data.snapdrgn.net/person/9201> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673795>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/603754> ;
+dct:replaces <http://data.snapdrgn.net/person/7212> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673796>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/580582> ;
+dct:replaces <http://data.snapdrgn.net/person/2658> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673797>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653053> ;
+dct:replaces <http://data.snapdrgn.net/person/1564> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673798>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/550512> ;
+dct:replaces <http://data.snapdrgn.net/person/4538> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673799>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/588872> ;
+dct:replaces <http://data.snapdrgn.net/person/5515> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673800>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/413721> ;
+dct:replaces <http://data.snapdrgn.net/person/3319> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673801>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/517260> ;
+dct:replaces <http://data.snapdrgn.net/person/2734> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673802>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/529548> ;
+dct:replaces <http://data.snapdrgn.net/person/4328> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673803>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/427452> ;
+dct:replaces <http://data.snapdrgn.net/person/3082> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673804>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/617246> ;
+dct:replaces <http://data.snapdrgn.net/person/8618> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673805>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/515034> ;
+dct:replaces <http://data.snapdrgn.net/person/3697> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673806>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/604260> ;
+dct:replaces <http://data.snapdrgn.net/person/7735> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673807>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/627338> ;
+dct:replaces <http://data.snapdrgn.net/person/5388> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673808>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/376471> ;
+dct:replaces <http://data.snapdrgn.net/person/9433> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673809>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558049> ;
+dct:replaces <http://data.snapdrgn.net/person/10759> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673810>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/486040> ;
+dct:replaces <http://data.snapdrgn.net/person/4299> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673811>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/471841> ;
+dct:replaces <http://data.snapdrgn.net/person/8714> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673812>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/387290> ;
+dct:replaces <http://data.snapdrgn.net/person/4894> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673813>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/379750> ;
+dct:replaces <http://data.snapdrgn.net/person/6093> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673814>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/452220> ;
+dct:replaces <http://data.snapdrgn.net/person/9451> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673815>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/417457> ;
+dct:replaces <http://data.snapdrgn.net/person/3136> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673816>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619865> ;
+dct:replaces <http://data.snapdrgn.net/person/1319> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673817>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/399942> ;
+dct:replaces <http://data.snapdrgn.net/person/4313> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673818>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653241> ;
+dct:replaces <http://data.snapdrgn.net/person/4392> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673819>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/530827> ;
+dct:replaces <http://data.snapdrgn.net/person/10129> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673820>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616878> ;
+dct:replaces <http://data.snapdrgn.net/person/7919> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673821>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558088> ;
+dct:replaces <http://data.snapdrgn.net/person/3619> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673822>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/596509> ;
+dct:replaces <http://data.snapdrgn.net/person/7852> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673823>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/374252> ;
+dct:replaces <http://data.snapdrgn.net/person/3095> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673824>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/372365> ;
+dct:replaces <http://data.snapdrgn.net/person/1015> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673825>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/460529> ;
+dct:replaces <http://data.snapdrgn.net/person/4434> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673826>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/599806> ;
+dct:replaces <http://data.snapdrgn.net/person/7197> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673827>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/578534> ;
+dct:replaces <http://data.snapdrgn.net/person/6512> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673828>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/402417> ;
+dct:replaces <http://data.snapdrgn.net/person/3712> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673829>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/489127> ;
+dct:replaces <http://data.snapdrgn.net/person/9551> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673830>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/667348> ;
+dct:replaces <http://data.snapdrgn.net/person/4872> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673831>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/494533> ;
+dct:replaces <http://data.snapdrgn.net/person/6888> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673832>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/499558> ;
+dct:replaces <http://data.snapdrgn.net/person/2151> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673833>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618931> ;
+dct:replaces <http://data.snapdrgn.net/person/10504> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673834>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619237> ;
+dct:replaces <http://data.snapdrgn.net/person/4911> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673835>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/565968> ;
+dct:replaces <http://data.snapdrgn.net/person/9617> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673836>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/621831> ;
+dct:replaces <http://data.snapdrgn.net/person/10103> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673837>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/471177> ;
+dct:replaces <http://data.snapdrgn.net/person/10503> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673838>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/612932> ;
+dct:replaces <http://data.snapdrgn.net/person/7428> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673839>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510097> ;
+dct:replaces <http://data.snapdrgn.net/person/8184> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673840>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/397570> ;
+dct:replaces <http://data.snapdrgn.net/person/3592> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673841>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/628121> ;
+dct:replaces <http://data.snapdrgn.net/person/2968> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673842>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/453687> ;
+dct:replaces <http://data.snapdrgn.net/person/9922> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673843>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/472996> ;
+dct:replaces <http://data.snapdrgn.net/person/7003> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673844>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/622248> ;
+dct:replaces <http://data.snapdrgn.net/person/1928> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673845>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/505417> ;
+dct:replaces <http://data.snapdrgn.net/person/9614> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673846>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/374410> ;
+dct:replaces <http://data.snapdrgn.net/person/3410> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673847>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/377532> ;
+dct:replaces <http://data.snapdrgn.net/person/4118> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673848>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/625450> ;
+dct:replaces <http://data.snapdrgn.net/person/10045> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673849>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/536031> ;
+dct:replaces <http://data.snapdrgn.net/person/8578> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673850>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/564774> ;
+dct:replaces <http://data.snapdrgn.net/person/6444> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673851>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/515823> ;
+dct:replaces <http://data.snapdrgn.net/person/6009> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673852>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/455007> ;
+dct:replaces <http://data.snapdrgn.net/person/1193> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673853>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/425389> ;
+dct:replaces <http://data.snapdrgn.net/person/2256> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673854>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/543505> ;
+dct:replaces <http://data.snapdrgn.net/person/851> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673855>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/512788> ;
+dct:replaces <http://data.snapdrgn.net/person/182> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673856>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395266> ;
+dct:replaces <http://data.snapdrgn.net/person/7944> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673857>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/594700> ;
+dct:replaces <http://data.snapdrgn.net/person/7986> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673858>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/439789> ;
+dct:replaces <http://data.snapdrgn.net/person/5690> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673859>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618088> ;
+dct:replaces <http://data.snapdrgn.net/person/3606> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673860>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/596711> ;
+dct:replaces <http://data.snapdrgn.net/person/5132> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673861>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/414548> ;
+dct:replaces <http://data.snapdrgn.net/person/375> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673862>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/611612> ;
+dct:replaces <http://data.snapdrgn.net/person/3483> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673863>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/459102> ;
+dct:replaces <http://data.snapdrgn.net/person/2549> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673864>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/482118> ;
+dct:replaces <http://data.snapdrgn.net/person/3960> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673865>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/480229> ;
+dct:replaces <http://data.snapdrgn.net/person/2702> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673866>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/629987> ;
+dct:replaces <http://data.snapdrgn.net/person/6454> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673867>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/649663> ;
+dct:replaces <http://data.snapdrgn.net/person/2381> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673868>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/628113> ;
+dct:replaces <http://data.snapdrgn.net/person/2514> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673869>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/578215> ;
+dct:replaces <http://data.snapdrgn.net/person/623> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673870>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/472965> ;
+dct:replaces <http://data.snapdrgn.net/person/4435> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673871>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497545> ;
+dct:replaces <http://data.snapdrgn.net/person/3896> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673872>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/513472> ;
+dct:replaces <http://data.snapdrgn.net/person/3149> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673873>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/492645> ;
+dct:replaces <http://data.snapdrgn.net/person/7023> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673874>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537958> ;
+dct:replaces <http://data.snapdrgn.net/person/8135> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673875>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510036> ;
+dct:replaces <http://data.snapdrgn.net/person/10275> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673876>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/534151> ;
+dct:replaces <http://data.snapdrgn.net/person/1812> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673877>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/512903> ;
+dct:replaces <http://data.snapdrgn.net/person/9939> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673878>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/614301> ;
+dct:replaces <http://data.snapdrgn.net/person/1201> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673879>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/511494> ;
+dct:replaces <http://data.snapdrgn.net/person/1344> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673880>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/631943> ;
+dct:replaces <http://data.snapdrgn.net/person/6548> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673881>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/377110> ;
+dct:replaces <http://data.snapdrgn.net/person/3923> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673882>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/569678> ;
+dct:replaces <http://data.snapdrgn.net/person/4967> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673883>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/541107> ;
+dct:replaces <http://data.snapdrgn.net/person/6442> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673884>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/567986> ;
+dct:replaces <http://data.snapdrgn.net/person/1339> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673885>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/667496> ;
+dct:replaces <http://data.snapdrgn.net/person/8495> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673886>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/412682> ;
+dct:replaces <http://data.snapdrgn.net/person/10057> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673887>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/409036> ;
+dct:replaces <http://data.snapdrgn.net/person/173> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+#<http://data.snapdrgn.net/person/673888>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/510888> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673889>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558968> ;
+dct:replaces <http://data.snapdrgn.net/person/588> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673890>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/449786> ;
+dct:replaces <http://data.snapdrgn.net/person/3386> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+#<http://data.snapdrgn.net/person/673891>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/579412> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673892>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/448195> ;
+dct:replaces <http://data.snapdrgn.net/person/264> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673893>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395915> ;
+dct:replaces <http://data.snapdrgn.net/person/8938> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673894>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/399256> ;
+dct:replaces <http://data.snapdrgn.net/person/1372> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673895>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/591535> ;
+dct:replaces <http://data.snapdrgn.net/person/3565> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673896>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/549201> ;
+dct:replaces <http://data.snapdrgn.net/person/1777> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673897>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/446202> ;
+dct:replaces <http://data.snapdrgn.net/person/9928> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673898>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498880> ;
+dct:replaces <http://data.snapdrgn.net/person/7018> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673899>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/477441> ;
+dct:replaces <http://data.snapdrgn.net/person/4709> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673900>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497040> ;
+dct:replaces <http://data.snapdrgn.net/person/7461> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673901>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/476015> ;
+dct:replaces <http://data.snapdrgn.net/person/8243> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673902>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/577578> ;
+dct:replaces <http://data.snapdrgn.net/person/7678> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673903>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/625839> ;
+dct:replaces <http://data.snapdrgn.net/person/923> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673904>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/648179> ;
+dct:replaces <http://data.snapdrgn.net/person/8790> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673905>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/597848> ;
+dct:replaces <http://data.snapdrgn.net/person/8214> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673906>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537042> ;
+dct:replaces <http://data.snapdrgn.net/person/7660> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673907>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/508782> ;
+dct:replaces <http://data.snapdrgn.net/person/8716> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673908>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/535590> ;
+dct:replaces <http://data.snapdrgn.net/person/3104> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673909>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/514344> ;
+dct:replaces <http://data.snapdrgn.net/person/1309> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673910>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616052> ;
+dct:replaces <http://data.snapdrgn.net/person/2460> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673911>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510655> ;
+dct:replaces <http://data.snapdrgn.net/person/213> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+
+#<http://data.snapdrgn.net/person/673912>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/631103> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+#<http://data.snapdrgn.net/person/673913>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/420395> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+#<http://data.snapdrgn.net/person/673914>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/576554> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673915>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/412722> ;
+dct:replaces <http://data.snapdrgn.net/person/10840> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673916>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/651417> ;
+dct:replaces <http://data.snapdrgn.net/person/1465> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673917>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/644044> ;
+dct:replaces <http://data.snapdrgn.net/person/5269> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673918>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/641422> ;
+dct:replaces <http://data.snapdrgn.net/person/7441> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673919>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/640034> ;
+dct:replaces <http://data.snapdrgn.net/person/9521> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673920>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/577339> ;
+dct:replaces <http://data.snapdrgn.net/person/5777> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673921>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619749> ;
+dct:replaces <http://data.snapdrgn.net/person/7347> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673922>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/376370> ;
+dct:replaces <http://data.snapdrgn.net/person/1841> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673923>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/427144> ;
+dct:replaces <http://data.snapdrgn.net/person/4032> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673924>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/599537> ;
+dct:replaces <http://data.snapdrgn.net/person/5081> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673925>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/586618> ;
+dct:replaces <http://data.snapdrgn.net/person/8402> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+#<http://data.snapdrgn.net/person/673926>
+#a lawd:Person, snap:MergedResource ;
+#dct:replaces <http://data.snapdrgn.net/person/512308> ;
+#dct:replaces <SNAPID NOT AVAILABLE> ;
+#dct:publisher <http://snapdrgn.net> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+#prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+#rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673927>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/480822> ;
+dct:replaces <http://data.snapdrgn.net/person/2341> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673928>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/499440> ;
+dct:replaces <http://data.snapdrgn.net/person/7151> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673929>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/663020> ;
+dct:replaces <http://data.snapdrgn.net/person/7782> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673930>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/452326> ;
+dct:replaces <http://data.snapdrgn.net/person/5776> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673931>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/657759> ;
+dct:replaces <http://data.snapdrgn.net/person/8706> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673932>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/523280> ;
+dct:replaces <http://data.snapdrgn.net/person/6683> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673933>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/420107> ;
+dct:replaces <http://data.snapdrgn.net/person/9610> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
+
+<http://data.snapdrgn.net/person/673934>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/450923> ;
+dct:replaces <http://data.snapdrgn.net/person/8331> ;
+dct:publisher <http://snapdrgn.net> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058> ;
+rdfs:comment "Merge is based on citations of PIR in LGPN." .
