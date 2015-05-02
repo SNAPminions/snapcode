@@ -1,0 +1,24 @@
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix snap:  <http://onto.snapdrgn.net/snap#> .
+@prefix bibo:  <http://purl.org/ontology/bibo/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+<http://www.paregorios.org/me>
+        a                    dct:Agent ;
+        foaf:name   "Tom Elliott" ;
+        foaf:homepage <http://www.paregorios.org/> .
+
+<http://www.worldcat.org/oclc/4164655>
+        rdf:type prov:Collection ;
+        dct:description  "This three-volume work, though dated, is an important and useful study of Roman prosopography. It serves as a lexicon of the leadership of the Roman Empire from the reign of Augustus (32 BC) through the 3rd century AD, including the imperial families, senators, equites, and other important personalities. Individuals are listed by their family names, with information on their offices and activities, and other available details. Each entry also includes references to sources consulted. The work was published in Germany, and is written entirely in Latin." ;
+        dct:title "Prosopographia Imperii Romani (first edition)" ;
+        bibo:shortTitle "PIR¹" ;
+        dct:source        <http://pir.bbaw.de/>.
+
+<http://www.worldcat.org/oclc/15383355>
+        rdf:type prov:Collection ;
+        dct:title "Prosopographia Imperii Romani (second edition)" ;
+        bibo:shortTitle "PIR²" ;
+        dct:source        <http://pir.bbaw.de/>.
