@@ -1,0 +1,929 @@
+@prefix: <http://onto.snapdrgn.net/snap#> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix lawd: <http://lawd.info/ontology/> .
+
+<http://data.snapdrgn.net/person/1/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/539690> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/2/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/446075> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/3/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/475156> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/4/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537427> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/5/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/456933> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/6/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/444299> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/7/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/656761> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/8/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/534162> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/9/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618688> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/10/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/386411> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/11/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/392816> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/12/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/397100> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/13/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/608828> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/14/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/645158> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/15/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/544605> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/16/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/518926> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/17/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/382300> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/18/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/650401> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/19/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/416009> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/20/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/593665> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/21/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/390469> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/22/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/592993> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/23/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/474716> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/24/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/651480> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/25/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/579068> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/26/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/491482> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/27/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/527243> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/28/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/629250> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/29/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/563955> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/30/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/561450> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/31/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/590062> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/32/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/585453> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/33/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/454415> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/34/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616859> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/35/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/607412> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/36/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/625494> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/37/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/556463> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/38/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/509813> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/39/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/374903> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/40/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/411185> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/41/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/495312> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/42/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/424051> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/43/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/428952> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/44/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618663> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/45/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/647758> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/46/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/492367> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/47/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/454847> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/48/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/639364> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/49/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/636155> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/50/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/617341> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/51/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/597219> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/52/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/539358> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/53/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/540541> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/54/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/427821> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/55/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/575704> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/56/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/652902> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/57/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/656653> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/58/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/565757> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/59/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/411071> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/60/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/637515> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/61/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/469005> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/62/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/514586> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/63/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/631996> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/64/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/473275> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/65/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395717> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/66/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/592229> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/67/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/438191> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/68/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/477930> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/69/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616641> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/70/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/597610> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/71/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/445542> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/72/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/539158> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/73/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/466848> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/74/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/431719> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/75/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/487805> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/76/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/575256> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/77/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/590163> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/78/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/531208> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/79/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/598688> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/80/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/585000> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/81/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/595115> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/82/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/403795> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/83/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/529181> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/84/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/531686> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/85/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/465264> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/86/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/542526> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/87/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/486562> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/88/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/538406> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/89/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/528371> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/90/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653766> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/91/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/668433> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/92/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/665909> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/93/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/399551> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/94/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/635195> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/95/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/654132> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/96/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497882> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/97/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/519536> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/98/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/649493> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/99/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/598342> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/100/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/642118> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/101/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/600117> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/102/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/384122> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/103/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/569047> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/104/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/553110> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/105/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/642237> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/106/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/555039> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/107/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/413148> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/108/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/410613> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/109/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/421258> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/110/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/641381> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/111/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/551875> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/112/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497641> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/113/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395230> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/114/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/652896> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/115/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/607479> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/116/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/524254> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/117/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/633718> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/118/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/666699> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/119/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/409523> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/120/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/455512> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/121/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/621234> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/122/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653989> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/123/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/654782> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/124/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/598356> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/125/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/643965> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/126/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537560> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/127/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/641437> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/128/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/478542> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/129/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/388065> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/130/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/575870> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/131/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/565086> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/132/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/607845> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+ prov:wasAttributedTo <http://viaf.org/viaf/41988155/>;
+dct:publisher <http://data.snapdrgn.net/person/> .
