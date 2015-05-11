@@ -1,0 +1,1825 @@
+@prefix: <http://onto.snapdrgn.net/snap#> .
+@prefix dct: <http://purl.org/dc/elements/1.1/> .
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix lawd: <http://lawd.info/ontology/> .
+
+<http://data.snapdrgn.net/person/1/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/524067> ;
+dct:replaces <http://data.snapdrgn.net/person/9900> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/2/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/651400> ;
+dct:replaces <http://data.snapdrgn.net/person/5865> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/3/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/612590> ;
+dct:replaces <http://data.snapdrgn.net/person/221> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/4/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/655342> ;
+dct:replaces <http://data.snapdrgn.net/person/4449> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/5/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/483429> ;
+dct:replaces <http://data.snapdrgn.net/person/3691> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/6/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/570398> ;
+dct:replaces <http://data.snapdrgn.net/person/4229> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/7/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/521650> ;
+dct:replaces <http://data.snapdrgn.net/person/597> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/8/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/419345> ;
+dct:replaces <http://data.snapdrgn.net/person/5292> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/9/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/588653> ;
+dct:replaces <http://data.snapdrgn.net/person/5802> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/10/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/481422> ;
+dct:replaces <http://data.snapdrgn.net/person/7708> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/11/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/508012> ;
+dct:replaces <http://data.snapdrgn.net/person/9412> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/12/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/474297> ;
+dct:replaces <http://data.snapdrgn.net/person/7259> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/13/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498554> ;
+dct:replaces <http://data.snapdrgn.net/person/2570> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/14/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/557083> ;
+dct:replaces <http://data.snapdrgn.net/person/5958> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/15/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/519194> ;
+dct:replaces <http://data.snapdrgn.net/person/3767> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/16/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/476694> ;
+dct:replaces <http://data.snapdrgn.net/person/1903> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/17/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/624045> ;
+dct:replaces <http://data.snapdrgn.net/person/10819> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/18/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/441864> ;
+dct:replaces <http://data.snapdrgn.net/person/9764> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/19/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498256> ;
+dct:replaces <http://data.snapdrgn.net/person/4761> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/20/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/402270> ;
+dct:replaces <http://data.snapdrgn.net/person/9152> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/21/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/601939> ;
+dct:replaces <http://data.snapdrgn.net/person/1704> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/22/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/424209> ;
+dct:replaces <http://data.snapdrgn.net/person/6057> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/23/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/463308> ;
+dct:replaces <http://data.snapdrgn.net/person/10056> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/24/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/523174> ;
+dct:replaces <http://data.snapdrgn.net/person/163> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/25/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/587297> ;
+dct:replaces <http://data.snapdrgn.net/person/6852> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/26/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/441051> ;
+dct:replaces <http://data.snapdrgn.net/person/4389> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/27/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/522470> ;
+dct:replaces <http://data.snapdrgn.net/person/9050> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/28/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/490139> ;
+dct:replaces <http://data.snapdrgn.net/person/2857> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/29/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/646741> ;
+dct:replaces <http://data.snapdrgn.net/person/7500> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/30/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/478049> ;
+dct:replaces <http://data.snapdrgn.net/person/9351> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/31/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/501426> ;
+dct:replaces <http://data.snapdrgn.net/person/6739> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/32/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/614818> ;
+dct:replaces <http://data.snapdrgn.net/person/10082> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/33/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/615906> ;
+dct:replaces <http://data.snapdrgn.net/person/8019> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/34/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/493747> ;
+dct:replaces <http://data.snapdrgn.net/person/9497> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/35/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/393486> ;
+dct:replaces <http://data.snapdrgn.net/person/3152> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/36/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/414572> ;
+dct:replaces <http://data.snapdrgn.net/person/5422> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/37/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/445854> ;
+dct:replaces <http://data.snapdrgn.net/person/3761> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/38/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/603930> ;
+dct:replaces <http://data.snapdrgn.net/person/5651> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/39/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/589673> ;
+dct:replaces <http://data.snapdrgn.net/person/9932> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/40/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/449286> ;
+dct:replaces <http://data.snapdrgn.net/person/2808> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/41/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618554> ;
+dct:replaces <http://data.snapdrgn.net/person/9201> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/42/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/603754> ;
+dct:replaces <http://data.snapdrgn.net/person/7212> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/43/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/580582> ;
+dct:replaces <http://data.snapdrgn.net/person/2658> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/44/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653053> ;
+dct:replaces <http://data.snapdrgn.net/person/1564> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/45/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/550512> ;
+dct:replaces <http://data.snapdrgn.net/person/4538> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/46/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/588872> ;
+dct:replaces <http://data.snapdrgn.net/person/5515> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/47/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/413721> ;
+dct:replaces <http://data.snapdrgn.net/person/3319> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/48/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/517260> ;
+dct:replaces <http://data.snapdrgn.net/person/2734> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/49/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/529548> ;
+dct:replaces <http://data.snapdrgn.net/person/4328> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/50/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/427452> ;
+dct:replaces <http://data.snapdrgn.net/person/3082> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/51/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/617246> ;
+dct:replaces <http://data.snapdrgn.net/person/8618> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/52/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/515034> ;
+dct:replaces <http://data.snapdrgn.net/person/3697> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/53/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/604260> ;
+dct:replaces <http://data.snapdrgn.net/person/7735> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/54/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/627338> ;
+dct:replaces <http://data.snapdrgn.net/person/5388> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/55/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/376471> ;
+dct:replaces <http://data.snapdrgn.net/person/9433> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/56/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558049> ;
+dct:replaces <http://data.snapdrgn.net/person/10759> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/57/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/486040> ;
+dct:replaces <http://data.snapdrgn.net/person/4299> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/58/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/471841> ;
+dct:replaces <http://data.snapdrgn.net/person/8714> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/59/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/387290> ;
+dct:replaces <http://data.snapdrgn.net/person/4894> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/60/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/379750> ;
+dct:replaces <http://data.snapdrgn.net/person/6093> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/61/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/452220> ;
+dct:replaces <http://data.snapdrgn.net/person/9451> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/62/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/417457> ;
+dct:replaces <http://data.snapdrgn.net/person/3136> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/63/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619865> ;
+dct:replaces <http://data.snapdrgn.net/person/1319> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/64/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/399942> ;
+dct:replaces <http://data.snapdrgn.net/person/4313> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/65/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/653241> ;
+dct:replaces <http://data.snapdrgn.net/person/4392> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/66/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/530827> ;
+dct:replaces <http://data.snapdrgn.net/person/10129> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/67/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616878> ;
+dct:replaces <http://data.snapdrgn.net/person/7919> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/68/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558088> ;
+dct:replaces <http://data.snapdrgn.net/person/3619> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/69/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/596509> ;
+dct:replaces <http://data.snapdrgn.net/person/7852> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/70/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/374252> ;
+dct:replaces <http://data.snapdrgn.net/person/3095> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/71/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/372365> ;
+dct:replaces <http://data.snapdrgn.net/person/1015> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/72/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/460529> ;
+dct:replaces <http://data.snapdrgn.net/person/4434> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/73/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/599806> ;
+dct:replaces <http://data.snapdrgn.net/person/7197> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/74/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/578534> ;
+dct:replaces <http://data.snapdrgn.net/person/6512> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/75/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/402417> ;
+dct:replaces <http://data.snapdrgn.net/person/3712> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/76/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/489127> ;
+dct:replaces <http://data.snapdrgn.net/person/9551> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/77/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/667348> ;
+dct:replaces <http://data.snapdrgn.net/person/4872> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/78/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/494533> ;
+dct:replaces <http://data.snapdrgn.net/person/6888> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/79/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/499558> ;
+dct:replaces <http://data.snapdrgn.net/person/2151> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/80/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618931> ;
+dct:replaces <http://data.snapdrgn.net/person/10504> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/81/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619237> ;
+dct:replaces <http://data.snapdrgn.net/person/4911> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/82/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/565968> ;
+dct:replaces <http://data.snapdrgn.net/person/9617> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/83/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/621831> ;
+dct:replaces <http://data.snapdrgn.net/person/10103> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/84/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/471177> ;
+dct:replaces <http://data.snapdrgn.net/person/10503> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/85/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/612932> ;
+dct:replaces <http://data.snapdrgn.net/person/7428> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/86/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510097> ;
+dct:replaces <http://data.snapdrgn.net/person/8184> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/87/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/397570> ;
+dct:replaces <http://data.snapdrgn.net/person/3592> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/88/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/628121> ;
+dct:replaces <http://data.snapdrgn.net/person/2968> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/89/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/453687> ;
+dct:replaces <http://data.snapdrgn.net/person/9922> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/90/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/472996> ;
+dct:replaces <http://data.snapdrgn.net/person/7003> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/91/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/622248> ;
+dct:replaces <http://data.snapdrgn.net/person/1928> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/92/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/505417> ;
+dct:replaces <http://data.snapdrgn.net/person/9614> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/93/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/374410> ;
+dct:replaces <http://data.snapdrgn.net/person/3410> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/94/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/377532> ;
+dct:replaces <http://data.snapdrgn.net/person/4118> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/95/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/625450> ;
+dct:replaces <http://data.snapdrgn.net/person/10045> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/96/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/536031> ;
+dct:replaces <http://data.snapdrgn.net/person/8578> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/97/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/564774> ;
+dct:replaces <http://data.snapdrgn.net/person/6444> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/98/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/515823> ;
+dct:replaces <http://data.snapdrgn.net/person/6009> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/99/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/455007> ;
+dct:replaces <http://data.snapdrgn.net/person/1193> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/100/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/425389> ;
+dct:replaces <http://data.snapdrgn.net/person/2256> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/101/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/543505> ;
+dct:replaces <http://data.snapdrgn.net/person/851> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/102/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/512788> ;
+dct:replaces <http://data.snapdrgn.net/person/182> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/103/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395266> ;
+dct:replaces <http://data.snapdrgn.net/person/7944> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/104/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/594700> ;
+dct:replaces <http://data.snapdrgn.net/person/7986> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/105/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/439789> ;
+dct:replaces <http://data.snapdrgn.net/person/5690> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/106/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/618088> ;
+dct:replaces <http://data.snapdrgn.net/person/3606> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/107/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/596711> ;
+dct:replaces <http://data.snapdrgn.net/person/5132> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/108/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/414548> ;
+dct:replaces <http://data.snapdrgn.net/person/375> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/109/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/611612> ;
+dct:replaces <http://data.snapdrgn.net/person/3483> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/110/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/459102> ;
+dct:replaces <http://data.snapdrgn.net/person/2549> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/111/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/482118> ;
+dct:replaces <http://data.snapdrgn.net/person/3960> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/112/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/480229> ;
+dct:replaces <http://data.snapdrgn.net/person/2702> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/113/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/629987> ;
+dct:replaces <http://data.snapdrgn.net/person/6454> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/114/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/649663> ;
+dct:replaces <http://data.snapdrgn.net/person/2381> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/115/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/628113> ;
+dct:replaces <http://data.snapdrgn.net/person/2514> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/116/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/578215> ;
+dct:replaces <http://data.snapdrgn.net/person/623> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/117/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/472965> ;
+dct:replaces <http://data.snapdrgn.net/person/4435> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/118/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497545> ;
+dct:replaces <http://data.snapdrgn.net/person/3896> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/119/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/513472> ;
+dct:replaces <http://data.snapdrgn.net/person/3149> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/120/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/492645> ;
+dct:replaces <http://data.snapdrgn.net/person/7023> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/121/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537958> ;
+dct:replaces <http://data.snapdrgn.net/person/8135> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/122/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510036> ;
+dct:replaces <http://data.snapdrgn.net/person/10275> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/123/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/534151> ;
+dct:replaces <http://data.snapdrgn.net/person/1812> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/124/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/512903> ;
+dct:replaces <http://data.snapdrgn.net/person/9939> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/125/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/614301> ;
+dct:replaces <http://data.snapdrgn.net/person/1201> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/126/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/511494> ;
+dct:replaces <http://data.snapdrgn.net/person/1344> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/127/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/631943> ;
+dct:replaces <http://data.snapdrgn.net/person/6548> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/128/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/377110> ;
+dct:replaces <http://data.snapdrgn.net/person/3923> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/129/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/569678> ;
+dct:replaces <http://data.snapdrgn.net/person/4967> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/130/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/541107> ;
+dct:replaces <http://data.snapdrgn.net/person/6442> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/131/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/567986> ;
+dct:replaces <http://data.snapdrgn.net/person/1339> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/132/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/667496> ;
+dct:replaces <http://data.snapdrgn.net/person/8495> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/133/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/412682> ;
+dct:replaces <http://data.snapdrgn.net/person/10057> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/134/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/409036> ;
+dct:replaces <http://data.snapdrgn.net/person/173> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/135/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510888> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/136/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/558968> ;
+dct:replaces <http://data.snapdrgn.net/person/588> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/137/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/449786> ;
+dct:replaces <http://data.snapdrgn.net/person/3386> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/138/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/579412> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/139/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/448195> ;
+dct:replaces <http://data.snapdrgn.net/person/264> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/140/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/395915> ;
+dct:replaces <http://data.snapdrgn.net/person/8938> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/141/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/399256> ;
+dct:replaces <http://data.snapdrgn.net/person/1372> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/142/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/591535> ;
+dct:replaces <http://data.snapdrgn.net/person/3565> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/143/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/549201> ;
+dct:replaces <http://data.snapdrgn.net/person/1777> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/144/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/446202> ;
+dct:replaces <http://data.snapdrgn.net/person/9928> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/145/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/498880> ;
+dct:replaces <http://data.snapdrgn.net/person/7018> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/146/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/477441> ;
+dct:replaces <http://data.snapdrgn.net/person/4709> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/147/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/497040> ;
+dct:replaces <http://data.snapdrgn.net/person/7461> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/148/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/476015> ;
+dct:replaces <http://data.snapdrgn.net/person/8243> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/149/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/577578> ;
+dct:replaces <http://data.snapdrgn.net/person/7678> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/150/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/625839> ;
+dct:replaces <http://data.snapdrgn.net/person/923> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/151/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/648179> ;
+dct:replaces <http://data.snapdrgn.net/person/8790> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/152/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/597848> ;
+dct:replaces <http://data.snapdrgn.net/person/8214> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/153/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/537042> ;
+dct:replaces <http://data.snapdrgn.net/person/7660> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/154/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/508782> ;
+dct:replaces <http://data.snapdrgn.net/person/8716> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/155/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/535590> ;
+dct:replaces <http://data.snapdrgn.net/person/3104> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/156/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/514344> ;
+dct:replaces <http://data.snapdrgn.net/person/1309> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/157/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/616052> ;
+dct:replaces <http://data.snapdrgn.net/person/2460> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/158/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/510655> ;
+dct:replaces <http://data.snapdrgn.net/person/213> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/159/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/631103> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/160/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/420395> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/161/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/576554> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/162/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/412722> ;
+dct:replaces <http://data.snapdrgn.net/person/10840> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/163/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/651417> ;
+dct:replaces <http://data.snapdrgn.net/person/1465> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/164/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/644044> ;
+dct:replaces <http://data.snapdrgn.net/person/5269> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/165/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/641422> ;
+dct:replaces <http://data.snapdrgn.net/person/7441> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/166/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/640034> ;
+dct:replaces <http://data.snapdrgn.net/person/9521> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/167/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/577339> ;
+dct:replaces <http://data.snapdrgn.net/person/5777> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/168/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/619749> ;
+dct:replaces <http://data.snapdrgn.net/person/7347> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/169/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/376370> ;
+dct:replaces <http://data.snapdrgn.net/person/1841> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/170/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/427144> ;
+dct:replaces <http://data.snapdrgn.net/person/4032> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/171/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/599537> ;
+dct:replaces <http://data.snapdrgn.net/person/5081> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/172/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/586618> ;
+dct:replaces <http://data.snapdrgn.net/person/8402> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/173/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/512308> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/174/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/480822> ;
+dct:replaces <http://data.snapdrgn.net/person/2341> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/175/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/499440> ;
+dct:replaces <http://data.snapdrgn.net/person/7151> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/176/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/663020> ;
+dct:replaces <http://data.snapdrgn.net/person/7782> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/177/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/452326> ;
+dct:replaces <http://data.snapdrgn.net/person/5776> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/178/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/657759> ;
+dct:replaces <http://data.snapdrgn.net/person/8706> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/179/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/523280> ;
+dct:replaces <http://data.snapdrgn.net/person/6683> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/180/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/420107> ;
+dct:replaces <http://data.snapdrgn.net/person/9610> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/181/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/450923> ;
+dct:replaces <http://data.snapdrgn.net/person/8331> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
+
+<http://data.snapdrgn.net/person/182/>
+a lawd:Person, snap:MergedResource ;
+dct:replaces <http://data.snapdrgn.net/person/572585> ;
+dct:replaces <http://data.snapdrgn.net/person/5065> ;
+dct:replaces <SOMETHING IS WRONG AT THE PLAYGROUND> ;
+prov:wasAttributedTo <http://orcid.org/0000-0001-5186-0738>;
+prov:wasAttributedTo <http://orcid.org/0000-0001-7244-5058>;
+prov:wasAttributedTo <http://orcid.org/0000-0002-8566-6666>;
+dct:publisher <http://data.snapdrgn.net/person/> .
