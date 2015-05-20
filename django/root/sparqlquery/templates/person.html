@@ -9,12 +9,13 @@
 </style>
 </head>
 <body>
-<h1>SNAP:DRGN {{ title }}</h1>
+<h1> {{short_title}}</h1>
+<h2> {{ bib_cit }} <h2>
 <table>
  <tr><td><b>ID</b></td><td>
-{% for key, value in id_pairs.items %}
- <li>{{ value }} (<a href="{{ key }}">{{ key }}</a>)</li>
-{% endfor %}
+[Bibliographic Citation] {% for key, value in id_pairs.items %}
+ <!-- <li>{{ value }} (<a href="{{ key }}">{{ key }}</a>)</li>
+{% endfor %} -->
  </td>
  </tr> <!-- originating/external project name and id numbers not full uris -->
  <tr><td><b>SNAP ID</b></td><td>{{ url }}</td></tr>

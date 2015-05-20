@@ -21,7 +21,7 @@ sparql_prefixes_q2 = [
     'xsd:<http://www.w3.org/2001/XMLSchema#>',
     'owl:<http://www.w3.org/2002/07/owl#>',
     'dct:<http://purl.org/dc/terms/>',
-    'prov:<http://www.w3.org/ns/prov#>',
+     'prov:<http://www.w3.org/ns/prov#>',
    ]
 sparql_prefixes_q3 = ['dct:<http://purl.org/dc/terms/>']
 sparql_prefixes_q4 = [
@@ -123,7 +123,7 @@ def person_page(request, person_id):
     for id in get_ids(selected_id):
         found_ids.append(id) 
                     #aggiunge l'id trovato alla lista dei record
-        short_id=id.split("/")[-1]
+        short_id=id.split("/")[-1] 
                     #conserva solo l'ultima parte di url
         if "#" in short_id:
             short_id=short_id.split('#')[0]
@@ -139,7 +139,7 @@ def person_page(request, person_id):
         short_ids_j=", ".join(short_ids)     
         new_title=short_selected_id+" - "+short_ids_j
     else:
-        new_title=short_selected_id+" - "+short_id
+        new_title=short_selected_id+" - "+short_id+"Hello"
                     #terminato il ciclo di cui sopra, questa istruzione if-else consente di elaborare il titolo a seconda che ci siano uno o piu short_ids
 
     if len(found_ids) < 1:
@@ -157,9 +157,15 @@ def person_page(request, person_id):
             query += 'PREFIX ' + prefix + ' '
         
         query += 'SELECT DISTINCT ?s ?p ?o WHERE {{<' + found_id + '> ?p ?o} UNION {?s ?p <'+ found_id + '>}}'
+         
+        short_title_query += 'SELECT DISTINCT ?shtitle WHERE {??origid dct:publisher ?publisher . ?publisher bibo:shortTitle ?shtitle}}'
+        bib_cit_query += 'SELECT ?bibcit WHERE {{origid dct:bibliographicCitation ?bibcit}}'            
 
         data = {sparql_query_key: query}
-    
+        
+        data = {sparql_query_key: short_title_query}
+        data = {sparql_query_key: bib_cit_query}
+
         headers = {'Accept': 'application/sparql-results+json'}
 
         r = requests.get(sparql_target, params=data, headers=headers)
@@ -210,7 +216,7 @@ def person_page(request, person_id):
                     object_results[rel] = set([value])   
         
 
-    return render_to_response('person.html', {"title": "SNAP:" + new_title, "object_results": object_results, "subject_results": subject_results, "id_pairs": id_pairs, "url": selected_id, "debug": ''})
+    return render_to_response('person.html', {"title": "SNAP:" + new_title, "object_results": object_results, "subject_results": subject_results, "id_pairs": id_pairs, "url": selected_id, "debug": '', "shtitle": shtitle, "bib_cit" bibcit_id})
 
 
 def test_page(request, person_id):
@@ -222,6 +228,9 @@ def test_page(request, person_id):
     id_pairs = {}
     short_selected_id = ''
     short_id = ''
+    short_title=''
+    bib_cit=''
+
     
     for id in get_ids(selected_id):
         found_ids.append(id) 
@@ -366,8 +375,12 @@ def test_page(request, person_id):
                         object_results[rel] = set(expanded_info)              
             
 
+
     return render_to_response('person.html', {"title": "SNAP:" + new_title, "object_results":object_results, "subject_results":subject_results, "id_pairs": id_pairs, "url": selected_id, "debug": '', "test": 'true'})
     
+
+
+
 def get_ids(selected_id):
     
     query = ''
@@ -380,6 +393,8 @@ def get_ids(selected_id):
 
     r = requests.get(sparql_target, params=data, headers=headers)
     jsonData = r.json()
+
+
     
     found_ids = []
     
@@ -409,3 +424,51 @@ def get_ids(selected_id):
             found_ids.append(id)
     
     return found_ids
+
+
+def get_bib_cit(selected_id): 
+
+    query=''
+    for prefix in sparql_prefixes_q3:
+        query+='PREFIX' + prefix + ' '
+
+    query += 'SELECT DISTINCT ?pub {<' + selected_id + '> dct:replaces ?origid dct:publisher ?puburi . ?puburi bibo:shortTitle ?pub'
+
+    data = {sparql_query_key: query}
+    headers = {'Accept' 'application/sparql-results+json'}
+
+    r = requests.get(sparql_target, params=data, headers=headers)
+    jsonData = r.json()
+
+    found_ids1 - []
+
+    if len(jsonData['results']['bindings']) > 0:
+        found_ids.append(jsonData['results']['bindings'][0]['id']['value'])
+
+        return found_ids
+
+    query1 = ''
+    for prefix in sparql_prefixes_q3:
+        query += 'PREFIX' + prefix + ''
+
+    query = ''
+    for prefix in sparql_prefixes_q3:
+        query += 'PREFIX '+ prefix + ''
+
+    query += 'SELECT DISTINCT ?pub {<' + selected_id + '> dct:replaces ?origid. ?origid dct:publisher ?puburi . ?puburi bibo:shortTitle ?pub }'
+    
+    query1 += 'SELECT DISTINCT ?bib {<' + selected_id + '> dct:replaces ?origid. ?origid bibo:shortTitle ?bib }'
+
+    data = {sparql_query_key: query}
+    headers = {'Accept': 'application/sparql-results+json'}
+
+    r = requests.get(sparql_target, params=data, headers=headers)
+    jsonData = r.json()
+
+    for row in jsonData['results']['bindings']:
+        found_ids.append(row['id']['value'])
+
+        for id in get_ids(row['id']['value']):
+            found_ids.append(id)
+
+    return found_ids1
