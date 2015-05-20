@@ -123,12 +123,8 @@ def person_page(request, person_id):
     for id in get_ids(selected_id):
         found_ids.append(id) 
                     #aggiunge l'id trovato alla lista dei record
-<<<<<<< HEAD
-        short_id=id.split("/")[-1] 
-=======
                     #adds the id found in the list of records
         short_id=id.split("/")[-1]
->>>>>>> db59be42fda345e7cef1d79efe69eb5c2f65471a
                     #conserva solo l'ultima parte di url
                     #keeps just only the final part of the url
         if "#" in short_id:
