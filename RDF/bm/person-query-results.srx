@@ -1,0 +1,2867 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="id"/>
+  </head>
+  <results>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144662</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130091</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181139</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/94576</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131123</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191711</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/194979</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140684</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140689</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193636</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131196</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/162624</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/112177</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55530</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179318</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/174428</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143986</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54121</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140702</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/10501</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56372</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140725</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140709</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148154</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54405</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131097</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153517</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2926</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79172</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/95961</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53183</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130065</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/146564</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144694</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/85975</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52702</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142839</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/137685</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/127100</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57296</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/200514</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214816</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196436</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/7312</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168480</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208959</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158002</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/80173</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54020</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/12674</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102088</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130039</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210114</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9073</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157993</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157841</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56371</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/149647</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/81899</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/109034</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181017</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/185371</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168436</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136675</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131217</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55392</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59937</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151836</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130146</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/78386</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210088</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157914</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/167974</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55901</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158286</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140643</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3617</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/62423</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131171</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190309</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131192</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/4426</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120495</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/146680</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55801</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55799</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147785</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143349</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196442</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157999</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/18945</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/189412</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196450</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131074</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147225</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79334</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/174609</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55835</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/207034</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144287</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139666</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55886</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130703</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142657</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/6183</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/133001</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55516</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/146784</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157460</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151152</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/134661</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/58108</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140364</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55120</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141202</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/183630</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143443</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152986</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142673</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57627</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140740</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/160044</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140729</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/192185</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52716</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/98285</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/91490</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157839</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/10275</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140076</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55839</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55264</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/189418</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/184549</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79256</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59070</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131098</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53366</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205412</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168502</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166883</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52696</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/11654</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/24985</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158080</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/28546</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119492</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143922</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/106402</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/61362</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191778</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169955</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131210</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179999</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/40288</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55395</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55671</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105637</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102941</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144572</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115508</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3350</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/170446</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196283</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52988</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86234</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181136</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/117243</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210113</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193110</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57938</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157913</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79104</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153956</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/201521</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/98954</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55800</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142867</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147467</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57619</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152182</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/40832</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/48605</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/10290</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53738</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120357</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55531</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56340</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115692</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131193</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54174</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153004</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9836</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79115</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140706</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59282</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56374</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/77020</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55834</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59213</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/22243</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147317</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205413</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/213334</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140738</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131091</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/13416</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147595</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/118364</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140681</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148285</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2492</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/11785</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/95065</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9612</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/175117</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143369</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190156</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142470</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/159734</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157864</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/195344</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131094</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/96853</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196449</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54022</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193058</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115580</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152263</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56461</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55838</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86267</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131183</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150129</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60814</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140650</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/201527</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/176554</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152183</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190920</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120311</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/1417</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130339</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208057</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131199</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140728</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79220</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/61138</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181756</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196402</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143225</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143241</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/176889</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120444</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79232</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164742</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166304</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120441</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152501</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54808</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59072</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157695</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119635</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144657</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105816</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158005</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131152</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/159173</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/12552</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140679</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/93494</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158342</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/113757</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60358</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119467</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79003</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179324</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/58909</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/11882</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132337</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136669</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/113318</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/93530</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115473</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/185876</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151697</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/197371</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193051</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60323</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/200381</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/58124</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115737</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152094</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115625</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3858</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59932</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131201</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168441</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/177148</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55393</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2540</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/198738</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55398</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157854</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153003</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57598</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/154837</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54807</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102977</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/78244</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120348</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140760</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/103039</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/206460</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152197</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140792</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/6172</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60672</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56575</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54130</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59211</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152999</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/180000</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179178</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55898</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/89808</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/137111</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102010</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55900</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140672</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152612</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196400</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/156415</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143908</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119489</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158879</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208822</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105636</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/135557</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55397</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/189415</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/159581</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/206776</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131064</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214628</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214660</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79333</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60077</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/134812</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/195740</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56147</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59137</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9554</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130090</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140654</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54111</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/7395</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143114</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/6684</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120354</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152338</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/135724</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142333</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140641</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3226</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/48252</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158338</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143493</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208375</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119570</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115790</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105626</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144101</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214652</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55480</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191378</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120445</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168779</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/69287</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115537</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168565</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153422</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131195</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115615</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/24800</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141480</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152268</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55396</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119714</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54250</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/188570</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157518</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55642</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/204509</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151601</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/12403</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/160324</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86496</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158139</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139990</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/101608</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57037</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56113</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144669</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/4</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150149</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139264</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143366</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140670</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59789</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208054</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79005</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131200</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152185</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164820</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59930</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55315</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/209677</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/85221</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60068</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153007</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86495</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136676</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/5908</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140743</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52924</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115767</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/20313</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214650</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/212263</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141386</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/202509</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131117</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157963</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140660</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115567</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152138</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105624</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191797</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/61360</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/178453</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214616</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151140</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56373</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142666</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/97103</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57036</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140772</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/204507</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59934</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115720</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/175272</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130704</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/117954</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/15987</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/194845</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/189422</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193050</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169399</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56146</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59755</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79102</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140692</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59929</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132999</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131125</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/1229</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/192306</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/68482</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/5592</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152339</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131178</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55528</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60091</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142674</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168414</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210090</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/67999</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196444</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/153005</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105625</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140707</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140741</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59217</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/201190</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59643</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131076</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/101941</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/6615</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/94896</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148402</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/22533</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9240</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166464</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/209573</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157771</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131194</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130044</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140661</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150174</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/9176</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86242</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/101765</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140666</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144670</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150435</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2330</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164818</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/146679</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55388</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56889</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140658</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/137912</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/198082</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157820</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139644</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119566</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140710</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56513</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/48963</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/155194</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140794</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168501</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54981</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131209</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151605</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205440</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193072</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139994</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214664</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152264</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148162</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55871</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143534</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147413</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/154939</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136356</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/13399</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/182501</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130337</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130089</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141319</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3289</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142672</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140786</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/6155</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179358</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181035</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79089</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157873</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136188</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132895</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157857</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/5579</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131066</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/178059</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52717</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2323</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/67595</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205430</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/838</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/186701</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143357</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105819</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139276</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55387</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52663</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169192</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141201</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79105</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/15308</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55334</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55258</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57074</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190157</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140659</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/63050</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179277</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56347</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/203916</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/135562</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/91489</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57623</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140700</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131108</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/15577</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210086</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168444</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/200512</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55025</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/16285</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157603</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144595</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181257</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/198399</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152288</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/213343</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130063</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115811</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115813</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79257</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/62368</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/192765</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147414</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152095</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52756</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/1355</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/89103</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152414</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/200703</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131202</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/156789</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140745</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/179317</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205156</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/38237</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157855</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140820</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/109528</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115803</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152257</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/31282</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115516</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181898</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/203542</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/174291</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148240</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54734</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131153</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191723</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/71597</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158085</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150178</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131185</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119424</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144972</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/10414</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/3017</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59925</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/113512</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130160</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150745</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52709</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140714</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56998</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150013</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140737</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/99979</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59777</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143083</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196281</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/61595</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214702</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86047</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/159632</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131198</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157840</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/2539</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55874</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/11740</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150442</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131177</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196443</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/201576</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/182640</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131211</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/185370</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131216</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/205372</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136618</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/184550</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59208</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140798</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152503</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210112</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52662</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131096</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140816</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54652</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190846</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147966</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/17611</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79189</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/134931</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/49855</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/154300</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148588</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/480</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131203</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54983</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/64689</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140754</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/198079</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/145628</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/180470</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/64631</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/93234</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/58905</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/155494</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79173</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131065</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151482</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/92459</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168061</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131128</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52699</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/74046</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54435</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55899</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55336</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148771</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55907</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143881</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55873</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164042</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/107409</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53567</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143625</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/88779</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59928</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/626</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/98287</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151851</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168417</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144586</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/174407</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119516</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105627</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/57961</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166884</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140585</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/145440</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/165507</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/64619</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/203525</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59941</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/185384</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119357</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/98037</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55872</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131191</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/174860</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143354</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/77769</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/101728</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55335</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/135702</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140695</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/106401</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150438</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52731</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168433</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/190154</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/135012</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143981</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/139576</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54982</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/78992</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136680</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/146177</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169071</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102940</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/99843</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/80128</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59940</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/214458</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164199</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119843</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59048</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/89104</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52668</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130092</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119449</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144626</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/170284</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131181</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/1137</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140846</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54648</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59927</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52701</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/204508</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131197</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52863</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/15922</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140664</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/58138</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/164821</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/185716</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105688</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79165</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158141</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/136677</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196447</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140742</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191380</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/160600</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86497</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/223</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115552</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/85968</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/163828</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166882</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/85981</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131095</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/8528</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/148419</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141735</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55841</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/36403</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54187</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/78426</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56964</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143623</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/74236</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191952</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59111</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53291</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86166</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52700</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/192151</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196437</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/182185</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/78956</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/17515</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144838</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147855</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132947</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181302</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/120437</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/11941</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/187838</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/102084</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131182</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/163453</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/36158</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/165854</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/149590</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/14696</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/71600</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/170282</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150183</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79001</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/158006</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55257</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/98286</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/141204</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/151800</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/142848</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140646</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/147469</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59557</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/178533</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52679</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193739</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130147</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196440</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130186</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/176856</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/177232</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152270</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/92396</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210640</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/76704</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52715</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/15692</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152502</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/94084</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115631</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157772</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/85889</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132948</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193104</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131127</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55529</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/106731</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79051</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86251</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140790</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140774</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/51976</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/200513</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/71482</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55300</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/115814</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/155491</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157837</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/59942</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/191602</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/17826</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54460</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55361</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210110</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/145489</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54895</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79261</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/73966</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/53371</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/144664</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157762</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55389</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/159687</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/12588</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/72772</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/195346</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/167327</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/171753</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/55390</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54663</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119030</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140764</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/143511</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/210115</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/196438</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131099</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/203524</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/166881</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/157915</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56909</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/208961</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/187815</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/131133</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/130049</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/150134</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/54242</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/105815</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169250</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/186836</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140676</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/132238</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86250</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/152302</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/31601</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/86278</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140717</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140733</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/110350</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/79110</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/56519</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/111484</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/119500</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/188568</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/134568</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/60399</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/140788</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/181037</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/52718</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/168780</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/61862</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/189406</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/169394</uri></binding>
+    </result>
+    <result>
+      <binding name="id"><uri>http://collection.britishmuseum.org/id/person-institution/193071</uri></binding>
+    </result>
+  </results>
+</sparql>

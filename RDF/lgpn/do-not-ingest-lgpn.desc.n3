@@ -1,0 +1,5 @@
+<http://www.lgpn.ox.ac.uk/>
+rdf:type dct:Agent ;
+dct:title “Lexicon of Greek Personal Names” ;
+bibo:shortTitle “LGPN” ;
+foaf:homepage <http://www.lgpn.ox.ac.uk/> .

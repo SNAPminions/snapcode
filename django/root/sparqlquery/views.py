@@ -123,15 +123,24 @@ def person_page(request, person_id):
     for id in get_ids(selected_id):
         found_ids.append(id) 
                     #aggiunge l'id trovato alla lista dei record
+<<<<<<< HEAD
         short_id=id.split("/")[-1] 
+=======
+                    #adds the id found in the list of records
+        short_id=id.split("/")[-1]
+>>>>>>> db59be42fda345e7cef1d79efe69eb5c2f65471a
                     #conserva solo l'ultima parte di url
+                    #keeps just only the final part of the url
         if "#" in short_id:
             short_id=short_id.split('#')[0]
                     #elimina la parte a destra di #
+                    #deletes what's on the right side of #
         short_ids.append(short_id)
                     #popola una lista
+                    #populates a list
         id_pairs[id]=short_id
                     #compila un dizionario  prendendo id come chiave e short_id come valore
+                    #compiles a dictionary taking id as key and short_id as value
         short_selected_id=selected_id.split('/')[-1]
         publisher='?'
 
@@ -141,6 +150,7 @@ def person_page(request, person_id):
     else:
         new_title=short_selected_id+" - "+short_id+"Hello"
                     #terminato il ciclo di cui sopra, questa istruzione if-else consente di elaborare il titolo a seconda che ci siano uno o piu short_ids
+                    #after having done the cicle, this instruction 'if-else' elaborates the title on the basis of the number of short_ids
 
     if len(found_ids) < 1:
         return render_to_response('404.html', {"id": selected_id, "debug": ''})
@@ -235,17 +245,20 @@ def test_page(request, person_id):
     for id in get_ids(selected_id):
         found_ids.append(id) 
                     #aggiunge l'id trovato alla lista dei record
+                    #adds the id found in the list of records
         short_id=id.split("/")[-1]
                     #conserva solo l'ultima parte di url
-                    
+                    #keeps just only the final part of the url
         if "#" in short_id:
             short_id=short_id.split('#')[0]
                     #elimina la parte a destra di #
+                    #deletes what's on the right side of #
         short_ids.append(short_id)
                     #popola una lista
+                    #populates a list
         id_pairs[id]=short_id
                     #compila un dizionario  prendendo id come chiave e short_id come valore
-                    
+                    #compiles a dictionary taking id as key and short_id as value
         short_selected_id=selected_id.split('/')[-1]
         publisher='?'
 
@@ -255,6 +268,7 @@ def test_page(request, person_id):
     else:
         new_title=short_selected_id+" - "+short_id
                     #terminato il ciclo di cui sopra, questa istruzione if-else consente di elaborare il titolo a seconda che ci siano uno o piu short_ids
+                    #after having done the cicle, this instruction 'if-else' elaborates the title on the basis of the number of short_ids
         
     if len(found_ids) < 1:
         return render_to_response('404.html', {"id": selected_id, "debug": get_ids(selected_id), "test": 'true'})

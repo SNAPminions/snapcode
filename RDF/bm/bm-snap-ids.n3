@@ -1,0 +1,2865 @@
+
+           @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+           @prefix owl: <http://www.w3.org/2002/07/owl#> .
+           @prefix prov: <http://www.w3.org/ns/prov#> .
+        
+        <http://data.snapdrgn.net/person/671020>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144662> .
+            
+        <http://data.snapdrgn.net/person/671021>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130091> .
+            
+        <http://data.snapdrgn.net/person/671022>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181139> .
+            
+        <http://data.snapdrgn.net/person/671023>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/94576> .
+            
+        <http://data.snapdrgn.net/person/671024>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131123> .
+            
+        <http://data.snapdrgn.net/person/671025>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191711> .
+            
+        <http://data.snapdrgn.net/person/671026>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/194979> .
+            
+        <http://data.snapdrgn.net/person/671027>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140684> .
+            
+        <http://data.snapdrgn.net/person/671028>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140689> .
+            
+        <http://data.snapdrgn.net/person/671029>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193636> .
+            
+        <http://data.snapdrgn.net/person/671030>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131196> .
+            
+        <http://data.snapdrgn.net/person/671031>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/162624> .
+            
+        <http://data.snapdrgn.net/person/671032>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/112177> .
+            
+        <http://data.snapdrgn.net/person/671033>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55530> .
+            
+        <http://data.snapdrgn.net/person/671034>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179318> .
+            
+        <http://data.snapdrgn.net/person/671035>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/174428> .
+            
+        <http://data.snapdrgn.net/person/671036>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143986> .
+            
+        <http://data.snapdrgn.net/person/671037>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54121> .
+            
+        <http://data.snapdrgn.net/person/671038>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140702> .
+            
+        <http://data.snapdrgn.net/person/671039>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/10501> .
+            
+        <http://data.snapdrgn.net/person/671040>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56372> .
+            
+        <http://data.snapdrgn.net/person/671041>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140725> .
+            
+        <http://data.snapdrgn.net/person/671042>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140709> .
+            
+        <http://data.snapdrgn.net/person/671043>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148154> .
+            
+        <http://data.snapdrgn.net/person/671044>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54405> .
+            
+        <http://data.snapdrgn.net/person/671045>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131097> .
+            
+        <http://data.snapdrgn.net/person/671046>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153517> .
+            
+        <http://data.snapdrgn.net/person/671047>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2926> .
+            
+        <http://data.snapdrgn.net/person/671048>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79172> .
+            
+        <http://data.snapdrgn.net/person/671049>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/95961> .
+            
+        <http://data.snapdrgn.net/person/671050>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53183> .
+            
+        <http://data.snapdrgn.net/person/671051>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130065> .
+            
+        <http://data.snapdrgn.net/person/671052>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/146564> .
+            
+        <http://data.snapdrgn.net/person/671053>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144694> .
+            
+        <http://data.snapdrgn.net/person/671054>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/85975> .
+            
+        <http://data.snapdrgn.net/person/671055>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52702> .
+            
+        <http://data.snapdrgn.net/person/671056>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142839> .
+            
+        <http://data.snapdrgn.net/person/671057>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/137685> .
+            
+        <http://data.snapdrgn.net/person/671058>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/127100> .
+            
+        <http://data.snapdrgn.net/person/671059>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57296> .
+            
+        <http://data.snapdrgn.net/person/671060>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/200514> .
+            
+        <http://data.snapdrgn.net/person/671061>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214816> .
+            
+        <http://data.snapdrgn.net/person/671062>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196436> .
+            
+        <http://data.snapdrgn.net/person/671063>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/7312> .
+            
+        <http://data.snapdrgn.net/person/671064>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168480> .
+            
+        <http://data.snapdrgn.net/person/671065>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208959> .
+            
+        <http://data.snapdrgn.net/person/671066>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158002> .
+            
+        <http://data.snapdrgn.net/person/671067>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/80173> .
+            
+        <http://data.snapdrgn.net/person/671068>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54020> .
+            
+        <http://data.snapdrgn.net/person/671069>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/12674> .
+            
+        <http://data.snapdrgn.net/person/671070>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102088> .
+            
+        <http://data.snapdrgn.net/person/671071>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130039> .
+            
+        <http://data.snapdrgn.net/person/671072>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210114> .
+            
+        <http://data.snapdrgn.net/person/671073>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9073> .
+            
+        <http://data.snapdrgn.net/person/671074>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157993> .
+            
+        <http://data.snapdrgn.net/person/671075>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157841> .
+            
+        <http://data.snapdrgn.net/person/671076>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56371> .
+            
+        <http://data.snapdrgn.net/person/671077>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/149647> .
+            
+        <http://data.snapdrgn.net/person/671078>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/81899> .
+            
+        <http://data.snapdrgn.net/person/671079>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/109034> .
+            
+        <http://data.snapdrgn.net/person/671080>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181017> .
+            
+        <http://data.snapdrgn.net/person/671081>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/185371> .
+            
+        <http://data.snapdrgn.net/person/671082>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168436> .
+            
+        <http://data.snapdrgn.net/person/671083>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136675> .
+            
+        <http://data.snapdrgn.net/person/671084>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131217> .
+            
+        <http://data.snapdrgn.net/person/671085>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55392> .
+            
+        <http://data.snapdrgn.net/person/671086>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59937> .
+            
+        <http://data.snapdrgn.net/person/671087>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151836> .
+            
+        <http://data.snapdrgn.net/person/671088>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130146> .
+            
+        <http://data.snapdrgn.net/person/671089>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/78386> .
+            
+        <http://data.snapdrgn.net/person/671090>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210088> .
+            
+        <http://data.snapdrgn.net/person/671091>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157914> .
+            
+        <http://data.snapdrgn.net/person/671092>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/167974> .
+            
+        <http://data.snapdrgn.net/person/671093>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55901> .
+            
+        <http://data.snapdrgn.net/person/671094>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158286> .
+            
+        <http://data.snapdrgn.net/person/671095>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140643> .
+            
+        <http://data.snapdrgn.net/person/671096>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3617> .
+            
+        <http://data.snapdrgn.net/person/671097>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/62423> .
+            
+        <http://data.snapdrgn.net/person/671098>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131171> .
+            
+        <http://data.snapdrgn.net/person/671099>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190309> .
+            
+        <http://data.snapdrgn.net/person/671100>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131192> .
+            
+        <http://data.snapdrgn.net/person/671101>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/4426> .
+            
+        <http://data.snapdrgn.net/person/671102>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120495> .
+            
+        <http://data.snapdrgn.net/person/671103>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/146680> .
+            
+        <http://data.snapdrgn.net/person/671104>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55801> .
+            
+        <http://data.snapdrgn.net/person/671105>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55799> .
+            
+        <http://data.snapdrgn.net/person/671106>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147785> .
+            
+        <http://data.snapdrgn.net/person/671107>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143349> .
+            
+        <http://data.snapdrgn.net/person/671108>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196442> .
+            
+        <http://data.snapdrgn.net/person/671109>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157999> .
+            
+        <http://data.snapdrgn.net/person/671110>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/18945> .
+            
+        <http://data.snapdrgn.net/person/671111>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/189412> .
+            
+        <http://data.snapdrgn.net/person/671112>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196450> .
+            
+        <http://data.snapdrgn.net/person/671113>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131074> .
+            
+        <http://data.snapdrgn.net/person/671114>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147225> .
+            
+        <http://data.snapdrgn.net/person/671115>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79334> .
+            
+        <http://data.snapdrgn.net/person/671116>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/174609> .
+            
+        <http://data.snapdrgn.net/person/671117>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55835> .
+            
+        <http://data.snapdrgn.net/person/671118>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/207034> .
+            
+        <http://data.snapdrgn.net/person/671119>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144287> .
+            
+        <http://data.snapdrgn.net/person/671120>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139666> .
+            
+        <http://data.snapdrgn.net/person/671121>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55886> .
+            
+        <http://data.snapdrgn.net/person/671122>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130703> .
+            
+        <http://data.snapdrgn.net/person/671123>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142657> .
+            
+        <http://data.snapdrgn.net/person/671124>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/6183> .
+            
+        <http://data.snapdrgn.net/person/671125>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/133001> .
+            
+        <http://data.snapdrgn.net/person/671126>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55516> .
+            
+        <http://data.snapdrgn.net/person/671127>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/146784> .
+            
+        <http://data.snapdrgn.net/person/671128>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157460> .
+            
+        <http://data.snapdrgn.net/person/671129>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151152> .
+            
+        <http://data.snapdrgn.net/person/671130>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/134661> .
+            
+        <http://data.snapdrgn.net/person/671131>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/58108> .
+            
+        <http://data.snapdrgn.net/person/671132>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140364> .
+            
+        <http://data.snapdrgn.net/person/671133>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55120> .
+            
+        <http://data.snapdrgn.net/person/671134>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141202> .
+            
+        <http://data.snapdrgn.net/person/671135>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/183630> .
+            
+        <http://data.snapdrgn.net/person/671136>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143443> .
+            
+        <http://data.snapdrgn.net/person/671137>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152986> .
+            
+        <http://data.snapdrgn.net/person/671138>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142673> .
+            
+        <http://data.snapdrgn.net/person/671139>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57627> .
+            
+        <http://data.snapdrgn.net/person/671140>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140740> .
+            
+        <http://data.snapdrgn.net/person/671141>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/160044> .
+            
+        <http://data.snapdrgn.net/person/671142>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140729> .
+            
+        <http://data.snapdrgn.net/person/671143>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/192185> .
+            
+        <http://data.snapdrgn.net/person/671144>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52716> .
+            
+        <http://data.snapdrgn.net/person/671145>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/98285> .
+            
+        <http://data.snapdrgn.net/person/671146>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/91490> .
+            
+        <http://data.snapdrgn.net/person/671147>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157839> .
+            
+        <http://data.snapdrgn.net/person/671148>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/10275> .
+            
+        <http://data.snapdrgn.net/person/671149>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140076> .
+            
+        <http://data.snapdrgn.net/person/671150>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55839> .
+            
+        <http://data.snapdrgn.net/person/671151>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55264> .
+            
+        <http://data.snapdrgn.net/person/671152>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/189418> .
+            
+        <http://data.snapdrgn.net/person/671153>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/184549> .
+            
+        <http://data.snapdrgn.net/person/671154>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79256> .
+            
+        <http://data.snapdrgn.net/person/671155>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59070> .
+            
+        <http://data.snapdrgn.net/person/671156>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131098> .
+            
+        <http://data.snapdrgn.net/person/671157>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53366> .
+            
+        <http://data.snapdrgn.net/person/671158>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205412> .
+            
+        <http://data.snapdrgn.net/person/671159>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168502> .
+            
+        <http://data.snapdrgn.net/person/671160>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166883> .
+            
+        <http://data.snapdrgn.net/person/671161>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52696> .
+            
+        <http://data.snapdrgn.net/person/671162>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/11654> .
+            
+        <http://data.snapdrgn.net/person/671163>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/24985> .
+            
+        <http://data.snapdrgn.net/person/671164>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158080> .
+            
+        <http://data.snapdrgn.net/person/671165>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/28546> .
+            
+        <http://data.snapdrgn.net/person/671166>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119492> .
+            
+        <http://data.snapdrgn.net/person/671167>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143922> .
+            
+        <http://data.snapdrgn.net/person/671168>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/106402> .
+            
+        <http://data.snapdrgn.net/person/671169>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/61362> .
+            
+        <http://data.snapdrgn.net/person/671170>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191778> .
+            
+        <http://data.snapdrgn.net/person/671171>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169955> .
+            
+        <http://data.snapdrgn.net/person/671172>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131210> .
+            
+        <http://data.snapdrgn.net/person/671173>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179999> .
+            
+        <http://data.snapdrgn.net/person/671174>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/40288> .
+            
+        <http://data.snapdrgn.net/person/671175>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55395> .
+            
+        <http://data.snapdrgn.net/person/671176>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55671> .
+            
+        <http://data.snapdrgn.net/person/671177>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105637> .
+            
+        <http://data.snapdrgn.net/person/671178>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102941> .
+            
+        <http://data.snapdrgn.net/person/671179>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144572> .
+            
+        <http://data.snapdrgn.net/person/671180>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115508> .
+            
+        <http://data.snapdrgn.net/person/671181>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3350> .
+            
+        <http://data.snapdrgn.net/person/671182>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/170446> .
+            
+        <http://data.snapdrgn.net/person/671183>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196283> .
+            
+        <http://data.snapdrgn.net/person/671184>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52988> .
+            
+        <http://data.snapdrgn.net/person/671185>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86234> .
+            
+        <http://data.snapdrgn.net/person/671186>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181136> .
+            
+        <http://data.snapdrgn.net/person/671187>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/117243> .
+            
+        <http://data.snapdrgn.net/person/671188>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210113> .
+            
+        <http://data.snapdrgn.net/person/671189>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193110> .
+            
+        <http://data.snapdrgn.net/person/671190>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57938> .
+            
+        <http://data.snapdrgn.net/person/671191>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157913> .
+            
+        <http://data.snapdrgn.net/person/671192>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79104> .
+            
+        <http://data.snapdrgn.net/person/671193>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153956> .
+            
+        <http://data.snapdrgn.net/person/671194>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/201521> .
+            
+        <http://data.snapdrgn.net/person/671195>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/98954> .
+            
+        <http://data.snapdrgn.net/person/671196>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55800> .
+            
+        <http://data.snapdrgn.net/person/671197>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142867> .
+            
+        <http://data.snapdrgn.net/person/671198>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147467> .
+            
+        <http://data.snapdrgn.net/person/671199>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57619> .
+            
+        <http://data.snapdrgn.net/person/671200>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152182> .
+            
+        <http://data.snapdrgn.net/person/671201>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/40832> .
+            
+        <http://data.snapdrgn.net/person/671202>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/48605> .
+            
+        <http://data.snapdrgn.net/person/671203>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/10290> .
+            
+        <http://data.snapdrgn.net/person/671204>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53738> .
+            
+        <http://data.snapdrgn.net/person/671205>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120357> .
+            
+        <http://data.snapdrgn.net/person/671206>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55531> .
+            
+        <http://data.snapdrgn.net/person/671207>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56340> .
+            
+        <http://data.snapdrgn.net/person/671208>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115692> .
+            
+        <http://data.snapdrgn.net/person/671209>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131193> .
+            
+        <http://data.snapdrgn.net/person/671210>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54174> .
+            
+        <http://data.snapdrgn.net/person/671211>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153004> .
+            
+        <http://data.snapdrgn.net/person/671212>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9836> .
+            
+        <http://data.snapdrgn.net/person/671213>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79115> .
+            
+        <http://data.snapdrgn.net/person/671214>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140706> .
+            
+        <http://data.snapdrgn.net/person/671215>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59282> .
+            
+        <http://data.snapdrgn.net/person/671216>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56374> .
+            
+        <http://data.snapdrgn.net/person/671217>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/77020> .
+            
+        <http://data.snapdrgn.net/person/671218>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55834> .
+            
+        <http://data.snapdrgn.net/person/671219>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59213> .
+            
+        <http://data.snapdrgn.net/person/671220>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/22243> .
+            
+        <http://data.snapdrgn.net/person/671221>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147317> .
+            
+        <http://data.snapdrgn.net/person/671222>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205413> .
+            
+        <http://data.snapdrgn.net/person/671223>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/213334> .
+            
+        <http://data.snapdrgn.net/person/671224>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140738> .
+            
+        <http://data.snapdrgn.net/person/671225>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131091> .
+            
+        <http://data.snapdrgn.net/person/671226>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/13416> .
+            
+        <http://data.snapdrgn.net/person/671227>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147595> .
+            
+        <http://data.snapdrgn.net/person/671228>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/118364> .
+            
+        <http://data.snapdrgn.net/person/671229>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140681> .
+            
+        <http://data.snapdrgn.net/person/671230>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148285> .
+            
+        <http://data.snapdrgn.net/person/671231>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2492> .
+            
+        <http://data.snapdrgn.net/person/671232>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/11785> .
+            
+        <http://data.snapdrgn.net/person/671233>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/95065> .
+            
+        <http://data.snapdrgn.net/person/671234>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9612> .
+            
+        <http://data.snapdrgn.net/person/671235>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/175117> .
+            
+        <http://data.snapdrgn.net/person/671236>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143369> .
+            
+        <http://data.snapdrgn.net/person/671237>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190156> .
+            
+        <http://data.snapdrgn.net/person/671238>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142470> .
+            
+        <http://data.snapdrgn.net/person/671239>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/159734> .
+            
+        <http://data.snapdrgn.net/person/671240>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157864> .
+            
+        <http://data.snapdrgn.net/person/671241>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/195344> .
+            
+        <http://data.snapdrgn.net/person/671242>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131094> .
+            
+        <http://data.snapdrgn.net/person/671243>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/96853> .
+            
+        <http://data.snapdrgn.net/person/671244>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196449> .
+            
+        <http://data.snapdrgn.net/person/671245>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54022> .
+            
+        <http://data.snapdrgn.net/person/671246>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193058> .
+            
+        <http://data.snapdrgn.net/person/671247>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9> .
+            
+        <http://data.snapdrgn.net/person/671248>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115580> .
+            
+        <http://data.snapdrgn.net/person/671249>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152263> .
+            
+        <http://data.snapdrgn.net/person/671250>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56461> .
+            
+        <http://data.snapdrgn.net/person/671251>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55838> .
+            
+        <http://data.snapdrgn.net/person/671252>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86267> .
+            
+        <http://data.snapdrgn.net/person/671253>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131183> .
+            
+        <http://data.snapdrgn.net/person/671254>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150129> .
+            
+        <http://data.snapdrgn.net/person/671255>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60814> .
+            
+        <http://data.snapdrgn.net/person/671256>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140650> .
+            
+        <http://data.snapdrgn.net/person/671257>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/201527> .
+            
+        <http://data.snapdrgn.net/person/671258>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/176554> .
+            
+        <http://data.snapdrgn.net/person/671259>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152183> .
+            
+        <http://data.snapdrgn.net/person/671260>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190920> .
+            
+        <http://data.snapdrgn.net/person/671261>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120311> .
+            
+        <http://data.snapdrgn.net/person/671262>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/1417> .
+            
+        <http://data.snapdrgn.net/person/671263>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130339> .
+            
+        <http://data.snapdrgn.net/person/671264>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208057> .
+            
+        <http://data.snapdrgn.net/person/671265>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131199> .
+            
+        <http://data.snapdrgn.net/person/671266>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140728> .
+            
+        <http://data.snapdrgn.net/person/671267>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79220> .
+            
+        <http://data.snapdrgn.net/person/671268>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/61138> .
+            
+        <http://data.snapdrgn.net/person/671269>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181756> .
+            
+        <http://data.snapdrgn.net/person/671270>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196402> .
+            
+        <http://data.snapdrgn.net/person/671271>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143225> .
+            
+        <http://data.snapdrgn.net/person/671272>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143241> .
+            
+        <http://data.snapdrgn.net/person/671273>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/176889> .
+            
+        <http://data.snapdrgn.net/person/671274>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120444> .
+            
+        <http://data.snapdrgn.net/person/671275>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79232> .
+            
+        <http://data.snapdrgn.net/person/671276>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164742> .
+            
+        <http://data.snapdrgn.net/person/671277>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166304> .
+            
+        <http://data.snapdrgn.net/person/671278>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120441> .
+            
+        <http://data.snapdrgn.net/person/671279>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152501> .
+            
+        <http://data.snapdrgn.net/person/671280>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54808> .
+            
+        <http://data.snapdrgn.net/person/671281>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59072> .
+            
+        <http://data.snapdrgn.net/person/671282>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157695> .
+            
+        <http://data.snapdrgn.net/person/671283>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119635> .
+            
+        <http://data.snapdrgn.net/person/671284>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144657> .
+            
+        <http://data.snapdrgn.net/person/671285>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105816> .
+            
+        <http://data.snapdrgn.net/person/671286>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158005> .
+            
+        <http://data.snapdrgn.net/person/671287>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131152> .
+            
+        <http://data.snapdrgn.net/person/671288>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/159173> .
+            
+        <http://data.snapdrgn.net/person/671289>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/12552> .
+            
+        <http://data.snapdrgn.net/person/671290>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140679> .
+            
+        <http://data.snapdrgn.net/person/671291>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/93494> .
+            
+        <http://data.snapdrgn.net/person/671292>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158342> .
+            
+        <http://data.snapdrgn.net/person/671293>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/113757> .
+            
+        <http://data.snapdrgn.net/person/671294>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60358> .
+            
+        <http://data.snapdrgn.net/person/671295>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119467> .
+            
+        <http://data.snapdrgn.net/person/671296>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79003> .
+            
+        <http://data.snapdrgn.net/person/671297>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179324> .
+            
+        <http://data.snapdrgn.net/person/671298>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/58909> .
+            
+        <http://data.snapdrgn.net/person/671299>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/11882> .
+            
+        <http://data.snapdrgn.net/person/671300>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132337> .
+            
+        <http://data.snapdrgn.net/person/671301>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136669> .
+            
+        <http://data.snapdrgn.net/person/671302>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/113318> .
+            
+        <http://data.snapdrgn.net/person/671303>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/93530> .
+            
+        <http://data.snapdrgn.net/person/671304>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115473> .
+            
+        <http://data.snapdrgn.net/person/671305>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/185876> .
+            
+        <http://data.snapdrgn.net/person/671306>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151697> .
+            
+        <http://data.snapdrgn.net/person/671307>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/197371> .
+            
+        <http://data.snapdrgn.net/person/671308>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193051> .
+            
+        <http://data.snapdrgn.net/person/671309>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60323> .
+            
+        <http://data.snapdrgn.net/person/671310>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/200381> .
+            
+        <http://data.snapdrgn.net/person/671311>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/58124> .
+            
+        <http://data.snapdrgn.net/person/671312>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115737> .
+            
+        <http://data.snapdrgn.net/person/671313>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152094> .
+            
+        <http://data.snapdrgn.net/person/671314>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115625> .
+            
+        <http://data.snapdrgn.net/person/671315>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3858> .
+            
+        <http://data.snapdrgn.net/person/671316>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59932> .
+            
+        <http://data.snapdrgn.net/person/671317>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131201> .
+            
+        <http://data.snapdrgn.net/person/671318>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168441> .
+            
+        <http://data.snapdrgn.net/person/671319>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/177148> .
+            
+        <http://data.snapdrgn.net/person/671320>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55393> .
+            
+        <http://data.snapdrgn.net/person/671321>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2540> .
+            
+        <http://data.snapdrgn.net/person/671322>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/198738> .
+            
+        <http://data.snapdrgn.net/person/671323>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55398> .
+            
+        <http://data.snapdrgn.net/person/671324>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157854> .
+            
+        <http://data.snapdrgn.net/person/671325>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153003> .
+            
+        <http://data.snapdrgn.net/person/671326>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57598> .
+            
+        <http://data.snapdrgn.net/person/671327>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/154837> .
+            
+        <http://data.snapdrgn.net/person/671328>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54807> .
+            
+        <http://data.snapdrgn.net/person/671329>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102977> .
+            
+        <http://data.snapdrgn.net/person/671330>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/78244> .
+            
+        <http://data.snapdrgn.net/person/671331>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120348> .
+            
+        <http://data.snapdrgn.net/person/671332>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140760> .
+            
+        <http://data.snapdrgn.net/person/671333>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/103039> .
+            
+        <http://data.snapdrgn.net/person/671334>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/206460> .
+            
+        <http://data.snapdrgn.net/person/671335>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152197> .
+            
+        <http://data.snapdrgn.net/person/671336>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140792> .
+            
+        <http://data.snapdrgn.net/person/671337>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/6172> .
+            
+        <http://data.snapdrgn.net/person/671338>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60672> .
+            
+        <http://data.snapdrgn.net/person/671339>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56575> .
+            
+        <http://data.snapdrgn.net/person/671340>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54130> .
+            
+        <http://data.snapdrgn.net/person/671341>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59211> .
+            
+        <http://data.snapdrgn.net/person/671342>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152999> .
+            
+        <http://data.snapdrgn.net/person/671343>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/180000> .
+            
+        <http://data.snapdrgn.net/person/671344>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179178> .
+            
+        <http://data.snapdrgn.net/person/671345>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55898> .
+            
+        <http://data.snapdrgn.net/person/671346>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/89808> .
+            
+        <http://data.snapdrgn.net/person/671347>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/137111> .
+            
+        <http://data.snapdrgn.net/person/671348>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102010> .
+            
+        <http://data.snapdrgn.net/person/671349>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55900> .
+            
+        <http://data.snapdrgn.net/person/671350>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140672> .
+            
+        <http://data.snapdrgn.net/person/671351>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152612> .
+            
+        <http://data.snapdrgn.net/person/671352>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196400> .
+            
+        <http://data.snapdrgn.net/person/671353>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/156415> .
+            
+        <http://data.snapdrgn.net/person/671354>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143908> .
+            
+        <http://data.snapdrgn.net/person/671355>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119489> .
+            
+        <http://data.snapdrgn.net/person/671356>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158879> .
+            
+        <http://data.snapdrgn.net/person/671357>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208822> .
+            
+        <http://data.snapdrgn.net/person/671358>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105636> .
+            
+        <http://data.snapdrgn.net/person/671359>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/135557> .
+            
+        <http://data.snapdrgn.net/person/671360>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55397> .
+            
+        <http://data.snapdrgn.net/person/671361>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/189415> .
+            
+        <http://data.snapdrgn.net/person/671362>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/159581> .
+            
+        <http://data.snapdrgn.net/person/671363>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/206776> .
+            
+        <http://data.snapdrgn.net/person/671364>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131064> .
+            
+        <http://data.snapdrgn.net/person/671365>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214628> .
+            
+        <http://data.snapdrgn.net/person/671366>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214660> .
+            
+        <http://data.snapdrgn.net/person/671367>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79333> .
+            
+        <http://data.snapdrgn.net/person/671368>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60077> .
+            
+        <http://data.snapdrgn.net/person/671369>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/134812> .
+            
+        <http://data.snapdrgn.net/person/671370>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/195740> .
+            
+        <http://data.snapdrgn.net/person/671371>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56147> .
+            
+        <http://data.snapdrgn.net/person/671372>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59137> .
+            
+        <http://data.snapdrgn.net/person/671373>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9554> .
+            
+        <http://data.snapdrgn.net/person/671374>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130090> .
+            
+        <http://data.snapdrgn.net/person/671375>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140654> .
+            
+        <http://data.snapdrgn.net/person/671376>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54111> .
+            
+        <http://data.snapdrgn.net/person/671377>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/7395> .
+            
+        <http://data.snapdrgn.net/person/671378>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143114> .
+            
+        <http://data.snapdrgn.net/person/671379>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/6684> .
+            
+        <http://data.snapdrgn.net/person/671380>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120354> .
+            
+        <http://data.snapdrgn.net/person/671381>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152338> .
+            
+        <http://data.snapdrgn.net/person/671382>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/135724> .
+            
+        <http://data.snapdrgn.net/person/671383>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142333> .
+            
+        <http://data.snapdrgn.net/person/671384>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140641> .
+            
+        <http://data.snapdrgn.net/person/671385>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3226> .
+            
+        <http://data.snapdrgn.net/person/671386>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/48252> .
+            
+        <http://data.snapdrgn.net/person/671387>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158338> .
+            
+        <http://data.snapdrgn.net/person/671388>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143493> .
+            
+        <http://data.snapdrgn.net/person/671389>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208375> .
+            
+        <http://data.snapdrgn.net/person/671390>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119570> .
+            
+        <http://data.snapdrgn.net/person/671391>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115790> .
+            
+        <http://data.snapdrgn.net/person/671392>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105626> .
+            
+        <http://data.snapdrgn.net/person/671393>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144101> .
+            
+        <http://data.snapdrgn.net/person/671394>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214652> .
+            
+        <http://data.snapdrgn.net/person/671395>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55480> .
+            
+        <http://data.snapdrgn.net/person/671396>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191378> .
+            
+        <http://data.snapdrgn.net/person/671397>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120445> .
+            
+        <http://data.snapdrgn.net/person/671398>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168779> .
+            
+        <http://data.snapdrgn.net/person/671399>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/69287> .
+            
+        <http://data.snapdrgn.net/person/671400>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115537> .
+            
+        <http://data.snapdrgn.net/person/671401>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168565> .
+            
+        <http://data.snapdrgn.net/person/671402>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153422> .
+            
+        <http://data.snapdrgn.net/person/671403>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131195> .
+            
+        <http://data.snapdrgn.net/person/671404>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115615> .
+            
+        <http://data.snapdrgn.net/person/671405>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/24800> .
+            
+        <http://data.snapdrgn.net/person/671406>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141480> .
+            
+        <http://data.snapdrgn.net/person/671407>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152268> .
+            
+        <http://data.snapdrgn.net/person/671408>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55396> .
+            
+        <http://data.snapdrgn.net/person/671409>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119714> .
+            
+        <http://data.snapdrgn.net/person/671410>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54250> .
+            
+        <http://data.snapdrgn.net/person/671411>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/188570> .
+            
+        <http://data.snapdrgn.net/person/671412>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157518> .
+            
+        <http://data.snapdrgn.net/person/671413>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55642> .
+            
+        <http://data.snapdrgn.net/person/671414>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/204509> .
+            
+        <http://data.snapdrgn.net/person/671415>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151601> .
+            
+        <http://data.snapdrgn.net/person/671416>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/12403> .
+            
+        <http://data.snapdrgn.net/person/671417>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/160324> .
+            
+        <http://data.snapdrgn.net/person/671418>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86496> .
+            
+        <http://data.snapdrgn.net/person/671419>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158139> .
+            
+        <http://data.snapdrgn.net/person/671420>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139990> .
+            
+        <http://data.snapdrgn.net/person/671421>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/101608> .
+            
+        <http://data.snapdrgn.net/person/671422>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57037> .
+            
+        <http://data.snapdrgn.net/person/671423>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56113> .
+            
+        <http://data.snapdrgn.net/person/671424>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144669> .
+            
+        <http://data.snapdrgn.net/person/671425>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/4> .
+            
+        <http://data.snapdrgn.net/person/671426>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150149> .
+            
+        <http://data.snapdrgn.net/person/671427>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139264> .
+            
+        <http://data.snapdrgn.net/person/671428>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143366> .
+            
+        <http://data.snapdrgn.net/person/671429>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140670> .
+            
+        <http://data.snapdrgn.net/person/671430>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59789> .
+            
+        <http://data.snapdrgn.net/person/671431>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208054> .
+            
+        <http://data.snapdrgn.net/person/671432>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79005> .
+            
+        <http://data.snapdrgn.net/person/671433>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131200> .
+            
+        <http://data.snapdrgn.net/person/671434>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152185> .
+            
+        <http://data.snapdrgn.net/person/671435>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164820> .
+            
+        <http://data.snapdrgn.net/person/671436>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59930> .
+            
+        <http://data.snapdrgn.net/person/671437>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55315> .
+            
+        <http://data.snapdrgn.net/person/671438>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/209677> .
+            
+        <http://data.snapdrgn.net/person/671439>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/85221> .
+            
+        <http://data.snapdrgn.net/person/671440>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60068> .
+            
+        <http://data.snapdrgn.net/person/671441>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153007> .
+            
+        <http://data.snapdrgn.net/person/671442>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86495> .
+            
+        <http://data.snapdrgn.net/person/671443>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136676> .
+            
+        <http://data.snapdrgn.net/person/671444>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/5908> .
+            
+        <http://data.snapdrgn.net/person/671445>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140743> .
+            
+        <http://data.snapdrgn.net/person/671446>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52924> .
+            
+        <http://data.snapdrgn.net/person/671447>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115767> .
+            
+        <http://data.snapdrgn.net/person/671448>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/20313> .
+            
+        <http://data.snapdrgn.net/person/671449>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214650> .
+            
+        <http://data.snapdrgn.net/person/671450>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/212263> .
+            
+        <http://data.snapdrgn.net/person/671451>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141386> .
+            
+        <http://data.snapdrgn.net/person/671452>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/202509> .
+            
+        <http://data.snapdrgn.net/person/671453>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131117> .
+            
+        <http://data.snapdrgn.net/person/671454>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157963> .
+            
+        <http://data.snapdrgn.net/person/671455>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140660> .
+            
+        <http://data.snapdrgn.net/person/671456>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115567> .
+            
+        <http://data.snapdrgn.net/person/671457>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152138> .
+            
+        <http://data.snapdrgn.net/person/671458>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105624> .
+            
+        <http://data.snapdrgn.net/person/671459>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191797> .
+            
+        <http://data.snapdrgn.net/person/671460>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/61360> .
+            
+        <http://data.snapdrgn.net/person/671461>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/178453> .
+            
+        <http://data.snapdrgn.net/person/671462>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214616> .
+            
+        <http://data.snapdrgn.net/person/671463>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151140> .
+            
+        <http://data.snapdrgn.net/person/671464>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56373> .
+            
+        <http://data.snapdrgn.net/person/671465>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142666> .
+            
+        <http://data.snapdrgn.net/person/671466>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/97103> .
+            
+        <http://data.snapdrgn.net/person/671467>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57036> .
+            
+        <http://data.snapdrgn.net/person/671468>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140772> .
+            
+        <http://data.snapdrgn.net/person/671469>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/204507> .
+            
+        <http://data.snapdrgn.net/person/671470>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59934> .
+            
+        <http://data.snapdrgn.net/person/671471>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115720> .
+            
+        <http://data.snapdrgn.net/person/671472>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/175272> .
+            
+        <http://data.snapdrgn.net/person/671473>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130704> .
+            
+        <http://data.snapdrgn.net/person/671474>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/117954> .
+            
+        <http://data.snapdrgn.net/person/671475>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/15987> .
+            
+        <http://data.snapdrgn.net/person/671476>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/194845> .
+            
+        <http://data.snapdrgn.net/person/671477>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/189422> .
+            
+        <http://data.snapdrgn.net/person/671478>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193050> .
+            
+        <http://data.snapdrgn.net/person/671479>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169399> .
+            
+        <http://data.snapdrgn.net/person/671480>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56146> .
+            
+        <http://data.snapdrgn.net/person/671481>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59755> .
+            
+        <http://data.snapdrgn.net/person/671482>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79102> .
+            
+        <http://data.snapdrgn.net/person/671483>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140692> .
+            
+        <http://data.snapdrgn.net/person/671484>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59929> .
+            
+        <http://data.snapdrgn.net/person/671485>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132999> .
+            
+        <http://data.snapdrgn.net/person/671486>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131125> .
+            
+        <http://data.snapdrgn.net/person/671487>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/1229> .
+            
+        <http://data.snapdrgn.net/person/671488>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/192306> .
+            
+        <http://data.snapdrgn.net/person/671489>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/68482> .
+            
+        <http://data.snapdrgn.net/person/671490>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/5592> .
+            
+        <http://data.snapdrgn.net/person/671491>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152339> .
+            
+        <http://data.snapdrgn.net/person/671492>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131178> .
+            
+        <http://data.snapdrgn.net/person/671493>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55528> .
+            
+        <http://data.snapdrgn.net/person/671494>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60091> .
+            
+        <http://data.snapdrgn.net/person/671495>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142674> .
+            
+        <http://data.snapdrgn.net/person/671496>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168414> .
+            
+        <http://data.snapdrgn.net/person/671497>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210090> .
+            
+        <http://data.snapdrgn.net/person/671498>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/67999> .
+            
+        <http://data.snapdrgn.net/person/671499>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196444> .
+            
+        <http://data.snapdrgn.net/person/671500>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/153005> .
+            
+        <http://data.snapdrgn.net/person/671501>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105625> .
+            
+        <http://data.snapdrgn.net/person/671502>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140707> .
+            
+        <http://data.snapdrgn.net/person/671503>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140741> .
+            
+        <http://data.snapdrgn.net/person/671504>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59217> .
+            
+        <http://data.snapdrgn.net/person/671505>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/201190> .
+            
+        <http://data.snapdrgn.net/person/671506>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59643> .
+            
+        <http://data.snapdrgn.net/person/671507>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131076> .
+            
+        <http://data.snapdrgn.net/person/671508>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/101941> .
+            
+        <http://data.snapdrgn.net/person/671509>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/6615> .
+            
+        <http://data.snapdrgn.net/person/671510>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/94896> .
+            
+        <http://data.snapdrgn.net/person/671511>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148402> .
+            
+        <http://data.snapdrgn.net/person/671512>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/22533> .
+            
+        <http://data.snapdrgn.net/person/671513>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9240> .
+            
+        <http://data.snapdrgn.net/person/671514>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166464> .
+            
+        <http://data.snapdrgn.net/person/671515>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/209573> .
+            
+        <http://data.snapdrgn.net/person/671516>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157771> .
+            
+        <http://data.snapdrgn.net/person/671517>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131194> .
+            
+        <http://data.snapdrgn.net/person/671518>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130044> .
+            
+        <http://data.snapdrgn.net/person/671519>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140661> .
+            
+        <http://data.snapdrgn.net/person/671520>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150174> .
+            
+        <http://data.snapdrgn.net/person/671521>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/9176> .
+            
+        <http://data.snapdrgn.net/person/671522>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86242> .
+            
+        <http://data.snapdrgn.net/person/671523>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/101765> .
+            
+        <http://data.snapdrgn.net/person/671524>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140666> .
+            
+        <http://data.snapdrgn.net/person/671525>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144670> .
+            
+        <http://data.snapdrgn.net/person/671526>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150435> .
+            
+        <http://data.snapdrgn.net/person/671527>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2330> .
+            
+        <http://data.snapdrgn.net/person/671528>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164818> .
+            
+        <http://data.snapdrgn.net/person/671529>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/146679> .
+            
+        <http://data.snapdrgn.net/person/671530>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55388> .
+            
+        <http://data.snapdrgn.net/person/671531>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56889> .
+            
+        <http://data.snapdrgn.net/person/671532>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140658> .
+            
+        <http://data.snapdrgn.net/person/671533>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/137912> .
+            
+        <http://data.snapdrgn.net/person/671534>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/198082> .
+            
+        <http://data.snapdrgn.net/person/671535>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157820> .
+            
+        <http://data.snapdrgn.net/person/671536>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139644> .
+            
+        <http://data.snapdrgn.net/person/671537>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119566> .
+            
+        <http://data.snapdrgn.net/person/671538>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140710> .
+            
+        <http://data.snapdrgn.net/person/671539>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56513> .
+            
+        <http://data.snapdrgn.net/person/671540>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/48963> .
+            
+        <http://data.snapdrgn.net/person/671541>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/155194> .
+            
+        <http://data.snapdrgn.net/person/671542>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140794> .
+            
+        <http://data.snapdrgn.net/person/671543>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168501> .
+            
+        <http://data.snapdrgn.net/person/671544>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54981> .
+            
+        <http://data.snapdrgn.net/person/671545>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131209> .
+            
+        <http://data.snapdrgn.net/person/671546>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151605> .
+            
+        <http://data.snapdrgn.net/person/671547>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205440> .
+            
+        <http://data.snapdrgn.net/person/671548>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193072> .
+            
+        <http://data.snapdrgn.net/person/671549>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139994> .
+            
+        <http://data.snapdrgn.net/person/671550>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214664> .
+            
+        <http://data.snapdrgn.net/person/671551>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152264> .
+            
+        <http://data.snapdrgn.net/person/671552>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148162> .
+            
+        <http://data.snapdrgn.net/person/671553>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55871> .
+            
+        <http://data.snapdrgn.net/person/671554>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143534> .
+            
+        <http://data.snapdrgn.net/person/671555>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147413> .
+            
+        <http://data.snapdrgn.net/person/671556>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/154939> .
+            
+        <http://data.snapdrgn.net/person/671557>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136356> .
+            
+        <http://data.snapdrgn.net/person/671558>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/13399> .
+            
+        <http://data.snapdrgn.net/person/671559>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/182501> .
+            
+        <http://data.snapdrgn.net/person/671560>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130337> .
+            
+        <http://data.snapdrgn.net/person/671561>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130089> .
+            
+        <http://data.snapdrgn.net/person/671562>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141319> .
+            
+        <http://data.snapdrgn.net/person/671563>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3289> .
+            
+        <http://data.snapdrgn.net/person/671564>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142672> .
+            
+        <http://data.snapdrgn.net/person/671565>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140786> .
+            
+        <http://data.snapdrgn.net/person/671566>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/6155> .
+            
+        <http://data.snapdrgn.net/person/671567>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179358> .
+            
+        <http://data.snapdrgn.net/person/671568>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181035> .
+            
+        <http://data.snapdrgn.net/person/671569>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79089> .
+            
+        <http://data.snapdrgn.net/person/671570>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157873> .
+            
+        <http://data.snapdrgn.net/person/671571>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136188> .
+            
+        <http://data.snapdrgn.net/person/671572>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132895> .
+            
+        <http://data.snapdrgn.net/person/671573>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157857> .
+            
+        <http://data.snapdrgn.net/person/671574>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/5579> .
+            
+        <http://data.snapdrgn.net/person/671575>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131066> .
+            
+        <http://data.snapdrgn.net/person/671576>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/178059> .
+            
+        <http://data.snapdrgn.net/person/671577>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52717> .
+            
+        <http://data.snapdrgn.net/person/671578>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2323> .
+            
+        <http://data.snapdrgn.net/person/671579>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/67595> .
+            
+        <http://data.snapdrgn.net/person/671580>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205430> .
+            
+        <http://data.snapdrgn.net/person/671581>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/838> .
+            
+        <http://data.snapdrgn.net/person/671582>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/186701> .
+            
+        <http://data.snapdrgn.net/person/671583>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143357> .
+            
+        <http://data.snapdrgn.net/person/671584>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105819> .
+            
+        <http://data.snapdrgn.net/person/671585>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139276> .
+            
+        <http://data.snapdrgn.net/person/671586>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55387> .
+            
+        <http://data.snapdrgn.net/person/671587>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52663> .
+            
+        <http://data.snapdrgn.net/person/671588>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169192> .
+            
+        <http://data.snapdrgn.net/person/671589>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141201> .
+            
+        <http://data.snapdrgn.net/person/671590>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79105> .
+            
+        <http://data.snapdrgn.net/person/671591>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/15308> .
+            
+        <http://data.snapdrgn.net/person/671592>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55334> .
+            
+        <http://data.snapdrgn.net/person/671593>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55258> .
+            
+        <http://data.snapdrgn.net/person/671594>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57074> .
+            
+        <http://data.snapdrgn.net/person/671595>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190157> .
+            
+        <http://data.snapdrgn.net/person/671596>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140659> .
+            
+        <http://data.snapdrgn.net/person/671597>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/63050> .
+            
+        <http://data.snapdrgn.net/person/671598>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179277> .
+            
+        <http://data.snapdrgn.net/person/671599>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56347> .
+            
+        <http://data.snapdrgn.net/person/671600>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/203916> .
+            
+        <http://data.snapdrgn.net/person/671601>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/135562> .
+            
+        <http://data.snapdrgn.net/person/671602>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/91489> .
+            
+        <http://data.snapdrgn.net/person/671603>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57623> .
+            
+        <http://data.snapdrgn.net/person/671604>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140700> .
+            
+        <http://data.snapdrgn.net/person/671605>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131108> .
+            
+        <http://data.snapdrgn.net/person/671606>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/15577> .
+            
+        <http://data.snapdrgn.net/person/671607>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210086> .
+            
+        <http://data.snapdrgn.net/person/671608>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168444> .
+            
+        <http://data.snapdrgn.net/person/671609>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/200512> .
+            
+        <http://data.snapdrgn.net/person/671610>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55025> .
+            
+        <http://data.snapdrgn.net/person/671611>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/16285> .
+            
+        <http://data.snapdrgn.net/person/671612>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157603> .
+            
+        <http://data.snapdrgn.net/person/671613>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144595> .
+            
+        <http://data.snapdrgn.net/person/671614>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181257> .
+            
+        <http://data.snapdrgn.net/person/671615>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/198399> .
+            
+        <http://data.snapdrgn.net/person/671616>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152288> .
+            
+        <http://data.snapdrgn.net/person/671617>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/213343> .
+            
+        <http://data.snapdrgn.net/person/671618>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130063> .
+            
+        <http://data.snapdrgn.net/person/671619>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115811> .
+            
+        <http://data.snapdrgn.net/person/671620>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115813> .
+            
+        <http://data.snapdrgn.net/person/671621>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79257> .
+            
+        <http://data.snapdrgn.net/person/671622>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/62368> .
+            
+        <http://data.snapdrgn.net/person/671623>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/192765> .
+            
+        <http://data.snapdrgn.net/person/671624>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147414> .
+            
+        <http://data.snapdrgn.net/person/671625>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152095> .
+            
+        <http://data.snapdrgn.net/person/671626>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52756> .
+            
+        <http://data.snapdrgn.net/person/671627>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/1355> .
+            
+        <http://data.snapdrgn.net/person/671628>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/89103> .
+            
+        <http://data.snapdrgn.net/person/671629>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152414> .
+            
+        <http://data.snapdrgn.net/person/671630>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/200703> .
+            
+        <http://data.snapdrgn.net/person/671631>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131202> .
+            
+        <http://data.snapdrgn.net/person/671632>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/156789> .
+            
+        <http://data.snapdrgn.net/person/671633>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140745> .
+            
+        <http://data.snapdrgn.net/person/671634>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/179317> .
+            
+        <http://data.snapdrgn.net/person/671635>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205156> .
+            
+        <http://data.snapdrgn.net/person/671636>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/38237> .
+            
+        <http://data.snapdrgn.net/person/671637>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157855> .
+            
+        <http://data.snapdrgn.net/person/671638>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140820> .
+            
+        <http://data.snapdrgn.net/person/671639>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/109528> .
+            
+        <http://data.snapdrgn.net/person/671640>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115803> .
+            
+        <http://data.snapdrgn.net/person/671641>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152257> .
+            
+        <http://data.snapdrgn.net/person/671642>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/31282> .
+            
+        <http://data.snapdrgn.net/person/671643>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115516> .
+            
+        <http://data.snapdrgn.net/person/671644>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181898> .
+            
+        <http://data.snapdrgn.net/person/671645>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/203542> .
+            
+        <http://data.snapdrgn.net/person/671646>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/174291> .
+            
+        <http://data.snapdrgn.net/person/671647>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148240> .
+            
+        <http://data.snapdrgn.net/person/671648>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54734> .
+            
+        <http://data.snapdrgn.net/person/671649>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131153> .
+            
+        <http://data.snapdrgn.net/person/671650>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191723> .
+            
+        <http://data.snapdrgn.net/person/671651>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/71597> .
+            
+        <http://data.snapdrgn.net/person/671652>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158085> .
+            
+        <http://data.snapdrgn.net/person/671653>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150178> .
+            
+        <http://data.snapdrgn.net/person/671654>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131185> .
+            
+        <http://data.snapdrgn.net/person/671655>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119424> .
+            
+        <http://data.snapdrgn.net/person/671656>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144972> .
+            
+        <http://data.snapdrgn.net/person/671657>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/10414> .
+            
+        <http://data.snapdrgn.net/person/671658>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/3017> .
+            
+        <http://data.snapdrgn.net/person/671659>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59925> .
+            
+        <http://data.snapdrgn.net/person/671660>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/113512> .
+            
+        <http://data.snapdrgn.net/person/671661>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130160> .
+            
+        <http://data.snapdrgn.net/person/671662>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150745> .
+            
+        <http://data.snapdrgn.net/person/671663>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52709> .
+            
+        <http://data.snapdrgn.net/person/671664>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140714> .
+            
+        <http://data.snapdrgn.net/person/671665>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56998> .
+            
+        <http://data.snapdrgn.net/person/671666>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150013> .
+            
+        <http://data.snapdrgn.net/person/671667>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140737> .
+            
+        <http://data.snapdrgn.net/person/671668>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/99979> .
+            
+        <http://data.snapdrgn.net/person/671669>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59777> .
+            
+        <http://data.snapdrgn.net/person/671670>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143083> .
+            
+        <http://data.snapdrgn.net/person/671671>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196281> .
+            
+        <http://data.snapdrgn.net/person/671672>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/61595> .
+            
+        <http://data.snapdrgn.net/person/671673>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214702> .
+            
+        <http://data.snapdrgn.net/person/671674>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86047> .
+            
+        <http://data.snapdrgn.net/person/671675>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/159632> .
+            
+        <http://data.snapdrgn.net/person/671676>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131198> .
+            
+        <http://data.snapdrgn.net/person/671677>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157840> .
+            
+        <http://data.snapdrgn.net/person/671678>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/2539> .
+            
+        <http://data.snapdrgn.net/person/671679>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55874> .
+            
+        <http://data.snapdrgn.net/person/671680>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/11740> .
+            
+        <http://data.snapdrgn.net/person/671681>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150442> .
+            
+        <http://data.snapdrgn.net/person/671682>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131177> .
+            
+        <http://data.snapdrgn.net/person/671683>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196443> .
+            
+        <http://data.snapdrgn.net/person/671684>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/201576> .
+            
+        <http://data.snapdrgn.net/person/671685>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/182640> .
+            
+        <http://data.snapdrgn.net/person/671686>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131211> .
+            
+        <http://data.snapdrgn.net/person/671687>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/185370> .
+            
+        <http://data.snapdrgn.net/person/671688>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131216> .
+            
+        <http://data.snapdrgn.net/person/671689>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/205372> .
+            
+        <http://data.snapdrgn.net/person/671690>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136618> .
+            
+        <http://data.snapdrgn.net/person/671691>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/184550> .
+            
+        <http://data.snapdrgn.net/person/671692>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59208> .
+            
+        <http://data.snapdrgn.net/person/671693>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140798> .
+            
+        <http://data.snapdrgn.net/person/671694>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152503> .
+            
+        <http://data.snapdrgn.net/person/671695>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210112> .
+            
+        <http://data.snapdrgn.net/person/671696>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52662> .
+            
+        <http://data.snapdrgn.net/person/671697>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131096> .
+            
+        <http://data.snapdrgn.net/person/671698>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140816> .
+            
+        <http://data.snapdrgn.net/person/671699>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54652> .
+            
+        <http://data.snapdrgn.net/person/671700>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190846> .
+            
+        <http://data.snapdrgn.net/person/671701>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147966> .
+            
+        <http://data.snapdrgn.net/person/671702>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/17611> .
+            
+        <http://data.snapdrgn.net/person/671703>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79189> .
+            
+        <http://data.snapdrgn.net/person/671704>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/134931> .
+            
+        <http://data.snapdrgn.net/person/671705>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/49855> .
+            
+        <http://data.snapdrgn.net/person/671706>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/154300> .
+            
+        <http://data.snapdrgn.net/person/671707>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148588> .
+            
+        <http://data.snapdrgn.net/person/671708>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/480> .
+            
+        <http://data.snapdrgn.net/person/671709>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131203> .
+            
+        <http://data.snapdrgn.net/person/671710>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54983> .
+            
+        <http://data.snapdrgn.net/person/671711>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/64689> .
+            
+        <http://data.snapdrgn.net/person/671712>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140754> .
+            
+        <http://data.snapdrgn.net/person/671713>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/198079> .
+            
+        <http://data.snapdrgn.net/person/671714>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/145628> .
+            
+        <http://data.snapdrgn.net/person/671715>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/180470> .
+            
+        <http://data.snapdrgn.net/person/671716>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/64631> .
+            
+        <http://data.snapdrgn.net/person/671717>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/93234> .
+            
+        <http://data.snapdrgn.net/person/671718>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/58905> .
+            
+        <http://data.snapdrgn.net/person/671719>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/155494> .
+            
+        <http://data.snapdrgn.net/person/671720>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79173> .
+            
+        <http://data.snapdrgn.net/person/671721>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131065> .
+            
+        <http://data.snapdrgn.net/person/671722>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151482> .
+            
+        <http://data.snapdrgn.net/person/671723>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/92459> .
+            
+        <http://data.snapdrgn.net/person/671724>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168061> .
+            
+        <http://data.snapdrgn.net/person/671725>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131128> .
+            
+        <http://data.snapdrgn.net/person/671726>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52699> .
+            
+        <http://data.snapdrgn.net/person/671727>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/74046> .
+            
+        <http://data.snapdrgn.net/person/671728>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54435> .
+            
+        <http://data.snapdrgn.net/person/671729>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55899> .
+            
+        <http://data.snapdrgn.net/person/671730>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55336> .
+            
+        <http://data.snapdrgn.net/person/671731>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148771> .
+            
+        <http://data.snapdrgn.net/person/671732>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55907> .
+            
+        <http://data.snapdrgn.net/person/671733>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143881> .
+            
+        <http://data.snapdrgn.net/person/671734>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55873> .
+            
+        <http://data.snapdrgn.net/person/671735>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164042> .
+            
+        <http://data.snapdrgn.net/person/671736>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/107409> .
+            
+        <http://data.snapdrgn.net/person/671737>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53567> .
+            
+        <http://data.snapdrgn.net/person/671738>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143625> .
+            
+        <http://data.snapdrgn.net/person/671739>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/88779> .
+            
+        <http://data.snapdrgn.net/person/671740>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59928> .
+            
+        <http://data.snapdrgn.net/person/671741>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/626> .
+            
+        <http://data.snapdrgn.net/person/671742>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/98287> .
+            
+        <http://data.snapdrgn.net/person/671743>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151851> .
+            
+        <http://data.snapdrgn.net/person/671744>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168417> .
+            
+        <http://data.snapdrgn.net/person/671745>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144586> .
+            
+        <http://data.snapdrgn.net/person/671746>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/174407> .
+            
+        <http://data.snapdrgn.net/person/671747>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119516> .
+            
+        <http://data.snapdrgn.net/person/671748>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105627> .
+            
+        <http://data.snapdrgn.net/person/671749>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/57961> .
+            
+        <http://data.snapdrgn.net/person/671750>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166884> .
+            
+        <http://data.snapdrgn.net/person/671751>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140585> .
+            
+        <http://data.snapdrgn.net/person/671752>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/145440> .
+            
+        <http://data.snapdrgn.net/person/671753>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/165507> .
+            
+        <http://data.snapdrgn.net/person/671754>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/64619> .
+            
+        <http://data.snapdrgn.net/person/671755>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/203525> .
+            
+        <http://data.snapdrgn.net/person/671756>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59941> .
+            
+        <http://data.snapdrgn.net/person/671757>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/185384> .
+            
+        <http://data.snapdrgn.net/person/671758>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119357> .
+            
+        <http://data.snapdrgn.net/person/671759>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/98037> .
+            
+        <http://data.snapdrgn.net/person/671760>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55872> .
+            
+        <http://data.snapdrgn.net/person/671761>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131191> .
+            
+        <http://data.snapdrgn.net/person/671762>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/174860> .
+            
+        <http://data.snapdrgn.net/person/671763>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143354> .
+            
+        <http://data.snapdrgn.net/person/671764>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/77769> .
+            
+        <http://data.snapdrgn.net/person/671765>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/101728> .
+            
+        <http://data.snapdrgn.net/person/671766>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55335> .
+            
+        <http://data.snapdrgn.net/person/671767>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/135702> .
+            
+        <http://data.snapdrgn.net/person/671768>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140695> .
+            
+        <http://data.snapdrgn.net/person/671769>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/106401> .
+            
+        <http://data.snapdrgn.net/person/671770>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150438> .
+            
+        <http://data.snapdrgn.net/person/671771>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52731> .
+            
+        <http://data.snapdrgn.net/person/671772>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168433> .
+            
+        <http://data.snapdrgn.net/person/671773>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/190154> .
+            
+        <http://data.snapdrgn.net/person/671774>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/135012> .
+            
+        <http://data.snapdrgn.net/person/671775>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143981> .
+            
+        <http://data.snapdrgn.net/person/671776>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/139576> .
+            
+        <http://data.snapdrgn.net/person/671777>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54982> .
+            
+        <http://data.snapdrgn.net/person/671778>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/78992> .
+            
+        <http://data.snapdrgn.net/person/671779>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136680> .
+            
+        <http://data.snapdrgn.net/person/671780>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/146177> .
+            
+        <http://data.snapdrgn.net/person/671781>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169071> .
+            
+        <http://data.snapdrgn.net/person/671782>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102940> .
+            
+        <http://data.snapdrgn.net/person/671783>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/99843> .
+            
+        <http://data.snapdrgn.net/person/671784>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/80128> .
+            
+        <http://data.snapdrgn.net/person/671785>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59940> .
+            
+        <http://data.snapdrgn.net/person/671786>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/214458> .
+            
+        <http://data.snapdrgn.net/person/671787>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164199> .
+            
+        <http://data.snapdrgn.net/person/671788>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119843> .
+            
+        <http://data.snapdrgn.net/person/671789>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59048> .
+            
+        <http://data.snapdrgn.net/person/671790>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/89104> .
+            
+        <http://data.snapdrgn.net/person/671791>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52668> .
+            
+        <http://data.snapdrgn.net/person/671792>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130092> .
+            
+        <http://data.snapdrgn.net/person/671793>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119449> .
+            
+        <http://data.snapdrgn.net/person/671794>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144626> .
+            
+        <http://data.snapdrgn.net/person/671795>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/170284> .
+            
+        <http://data.snapdrgn.net/person/671796>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131181> .
+            
+        <http://data.snapdrgn.net/person/671797>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/1137> .
+            
+        <http://data.snapdrgn.net/person/671798>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140846> .
+            
+        <http://data.snapdrgn.net/person/671799>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54648> .
+            
+        <http://data.snapdrgn.net/person/671800>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59927> .
+            
+        <http://data.snapdrgn.net/person/671801>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52701> .
+            
+        <http://data.snapdrgn.net/person/671802>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/204508> .
+            
+        <http://data.snapdrgn.net/person/671803>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131197> .
+            
+        <http://data.snapdrgn.net/person/671804>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52863> .
+            
+        <http://data.snapdrgn.net/person/671805>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/15922> .
+            
+        <http://data.snapdrgn.net/person/671806>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140664> .
+            
+        <http://data.snapdrgn.net/person/671807>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/58138> .
+            
+        <http://data.snapdrgn.net/person/671808>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/164821> .
+            
+        <http://data.snapdrgn.net/person/671809>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/185716> .
+            
+        <http://data.snapdrgn.net/person/671810>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105688> .
+            
+        <http://data.snapdrgn.net/person/671811>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79165> .
+            
+        <http://data.snapdrgn.net/person/671812>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158141> .
+            
+        <http://data.snapdrgn.net/person/671813>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/136677> .
+            
+        <http://data.snapdrgn.net/person/671814>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196447> .
+            
+        <http://data.snapdrgn.net/person/671815>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140742> .
+            
+        <http://data.snapdrgn.net/person/671816>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191380> .
+            
+        <http://data.snapdrgn.net/person/671817>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/160600> .
+            
+        <http://data.snapdrgn.net/person/671818>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86497> .
+            
+        <http://data.snapdrgn.net/person/671819>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/223> .
+            
+        <http://data.snapdrgn.net/person/671820>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115552> .
+            
+        <http://data.snapdrgn.net/person/671821>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/85968> .
+            
+        <http://data.snapdrgn.net/person/671822>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/163828> .
+            
+        <http://data.snapdrgn.net/person/671823>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166882> .
+            
+        <http://data.snapdrgn.net/person/671824>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/85981> .
+            
+        <http://data.snapdrgn.net/person/671825>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131095> .
+            
+        <http://data.snapdrgn.net/person/671826>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/8528> .
+            
+        <http://data.snapdrgn.net/person/671827>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/148419> .
+            
+        <http://data.snapdrgn.net/person/671828>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141735> .
+            
+        <http://data.snapdrgn.net/person/671829>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55841> .
+            
+        <http://data.snapdrgn.net/person/671830>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/36403> .
+            
+        <http://data.snapdrgn.net/person/671831>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54187> .
+            
+        <http://data.snapdrgn.net/person/671832>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/78426> .
+            
+        <http://data.snapdrgn.net/person/671833>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56964> .
+            
+        <http://data.snapdrgn.net/person/671834>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143623> .
+            
+        <http://data.snapdrgn.net/person/671835>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/74236> .
+            
+        <http://data.snapdrgn.net/person/671836>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191952> .
+            
+        <http://data.snapdrgn.net/person/671837>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59111> .
+            
+        <http://data.snapdrgn.net/person/671838>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53291> .
+            
+        <http://data.snapdrgn.net/person/671839>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86166> .
+            
+        <http://data.snapdrgn.net/person/671840>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52700> .
+            
+        <http://data.snapdrgn.net/person/671841>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/192151> .
+            
+        <http://data.snapdrgn.net/person/671842>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196437> .
+            
+        <http://data.snapdrgn.net/person/671843>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/182185> .
+            
+        <http://data.snapdrgn.net/person/671844>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/78956> .
+            
+        <http://data.snapdrgn.net/person/671845>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/17515> .
+            
+        <http://data.snapdrgn.net/person/671846>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144838> .
+            
+        <http://data.snapdrgn.net/person/671847>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147855> .
+            
+        <http://data.snapdrgn.net/person/671848>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132947> .
+            
+        <http://data.snapdrgn.net/person/671849>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181302> .
+            
+        <http://data.snapdrgn.net/person/671850>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/120437> .
+            
+        <http://data.snapdrgn.net/person/671851>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/11941> .
+            
+        <http://data.snapdrgn.net/person/671852>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/187838> .
+            
+        <http://data.snapdrgn.net/person/671853>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/102084> .
+            
+        <http://data.snapdrgn.net/person/671854>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131182> .
+            
+        <http://data.snapdrgn.net/person/671855>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/163453> .
+            
+        <http://data.snapdrgn.net/person/671856>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/36158> .
+            
+        <http://data.snapdrgn.net/person/671857>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/165854> .
+            
+        <http://data.snapdrgn.net/person/671858>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/149590> .
+            
+        <http://data.snapdrgn.net/person/671859>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/14696> .
+            
+        <http://data.snapdrgn.net/person/671860>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/71600> .
+            
+        <http://data.snapdrgn.net/person/671861>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/170282> .
+            
+        <http://data.snapdrgn.net/person/671862>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150183> .
+            
+        <http://data.snapdrgn.net/person/671863>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79001> .
+            
+        <http://data.snapdrgn.net/person/671864>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/158006> .
+            
+        <http://data.snapdrgn.net/person/671865>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55257> .
+            
+        <http://data.snapdrgn.net/person/671866>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/98286> .
+            
+        <http://data.snapdrgn.net/person/671867>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/141204> .
+            
+        <http://data.snapdrgn.net/person/671868>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/151800> .
+            
+        <http://data.snapdrgn.net/person/671869>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/142848> .
+            
+        <http://data.snapdrgn.net/person/671870>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140646> .
+            
+        <http://data.snapdrgn.net/person/671871>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/147469> .
+            
+        <http://data.snapdrgn.net/person/671872>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59557> .
+            
+        <http://data.snapdrgn.net/person/671873>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/178533> .
+            
+        <http://data.snapdrgn.net/person/671874>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52679> .
+            
+        <http://data.snapdrgn.net/person/671875>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193739> .
+            
+        <http://data.snapdrgn.net/person/671876>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130147> .
+            
+        <http://data.snapdrgn.net/person/671877>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196440> .
+            
+        <http://data.snapdrgn.net/person/671878>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130186> .
+            
+        <http://data.snapdrgn.net/person/671879>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/176856> .
+            
+        <http://data.snapdrgn.net/person/671880>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/177232> .
+            
+        <http://data.snapdrgn.net/person/671881>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152270> .
+            
+        <http://data.snapdrgn.net/person/671882>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/92396> .
+            
+        <http://data.snapdrgn.net/person/671883>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210640> .
+            
+        <http://data.snapdrgn.net/person/671884>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/76704> .
+            
+        <http://data.snapdrgn.net/person/671885>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52715> .
+            
+        <http://data.snapdrgn.net/person/671886>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/15692> .
+            
+        <http://data.snapdrgn.net/person/671887>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152502> .
+            
+        <http://data.snapdrgn.net/person/671888>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/94084> .
+            
+        <http://data.snapdrgn.net/person/671889>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115631> .
+            
+        <http://data.snapdrgn.net/person/671890>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157772> .
+            
+        <http://data.snapdrgn.net/person/671891>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/85889> .
+            
+        <http://data.snapdrgn.net/person/671892>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132948> .
+            
+        <http://data.snapdrgn.net/person/671893>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193104> .
+            
+        <http://data.snapdrgn.net/person/671894>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131127> .
+            
+        <http://data.snapdrgn.net/person/671895>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55529> .
+            
+        <http://data.snapdrgn.net/person/671896>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/106731> .
+            
+        <http://data.snapdrgn.net/person/671897>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79051> .
+            
+        <http://data.snapdrgn.net/person/671898>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86251> .
+            
+        <http://data.snapdrgn.net/person/671899>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140790> .
+            
+        <http://data.snapdrgn.net/person/671900>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140774> .
+            
+        <http://data.snapdrgn.net/person/671901>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/51976> .
+            
+        <http://data.snapdrgn.net/person/671902>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/200513> .
+            
+        <http://data.snapdrgn.net/person/671903>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/71482> .
+            
+        <http://data.snapdrgn.net/person/671904>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55300> .
+            
+        <http://data.snapdrgn.net/person/671905>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/115814> .
+            
+        <http://data.snapdrgn.net/person/671906>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/155491> .
+            
+        <http://data.snapdrgn.net/person/671907>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157837> .
+            
+        <http://data.snapdrgn.net/person/671908>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/59942> .
+            
+        <http://data.snapdrgn.net/person/671909>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/191602> .
+            
+        <http://data.snapdrgn.net/person/671910>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/17826> .
+            
+        <http://data.snapdrgn.net/person/671911>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54460> .
+            
+        <http://data.snapdrgn.net/person/671912>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55361> .
+            
+        <http://data.snapdrgn.net/person/671913>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210110> .
+            
+        <http://data.snapdrgn.net/person/671914>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/145489> .
+            
+        <http://data.snapdrgn.net/person/671915>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54895> .
+            
+        <http://data.snapdrgn.net/person/671916>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79261> .
+            
+        <http://data.snapdrgn.net/person/671917>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/73966> .
+            
+        <http://data.snapdrgn.net/person/671918>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/53371> .
+            
+        <http://data.snapdrgn.net/person/671919>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/144664> .
+            
+        <http://data.snapdrgn.net/person/671920>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157762> .
+            
+        <http://data.snapdrgn.net/person/671921>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55389> .
+            
+        <http://data.snapdrgn.net/person/671922>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/159687> .
+            
+        <http://data.snapdrgn.net/person/671923>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/12588> .
+            
+        <http://data.snapdrgn.net/person/671924>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/72772> .
+            
+        <http://data.snapdrgn.net/person/671925>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/195346> .
+            
+        <http://data.snapdrgn.net/person/671926>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/167327> .
+            
+        <http://data.snapdrgn.net/person/671927>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/171753> .
+            
+        <http://data.snapdrgn.net/person/671928>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/55390> .
+            
+        <http://data.snapdrgn.net/person/671929>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54663> .
+            
+        <http://data.snapdrgn.net/person/671930>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119030> .
+            
+        <http://data.snapdrgn.net/person/671931>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140764> .
+            
+        <http://data.snapdrgn.net/person/671932>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/143511> .
+            
+        <http://data.snapdrgn.net/person/671933>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/210115> .
+            
+        <http://data.snapdrgn.net/person/671934>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/196438> .
+            
+        <http://data.snapdrgn.net/person/671935>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131099> .
+            
+        <http://data.snapdrgn.net/person/671936>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/203524> .
+            
+        <http://data.snapdrgn.net/person/671937>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/166881> .
+            
+        <http://data.snapdrgn.net/person/671938>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/157915> .
+            
+        <http://data.snapdrgn.net/person/671939>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56909> .
+            
+        <http://data.snapdrgn.net/person/671940>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/208961> .
+            
+        <http://data.snapdrgn.net/person/671941>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/187815> .
+            
+        <http://data.snapdrgn.net/person/671942>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/131133> .
+            
+        <http://data.snapdrgn.net/person/671943>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/130049> .
+            
+        <http://data.snapdrgn.net/person/671944>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/150134> .
+            
+        <http://data.snapdrgn.net/person/671945>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/54242> .
+            
+        <http://data.snapdrgn.net/person/671946>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/105815> .
+            
+        <http://data.snapdrgn.net/person/671947>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169250> .
+            
+        <http://data.snapdrgn.net/person/671948>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/186836> .
+            
+        <http://data.snapdrgn.net/person/671949>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140676> .
+            
+        <http://data.snapdrgn.net/person/671950>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/132238> .
+            
+        <http://data.snapdrgn.net/person/671951>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86250> .
+            
+        <http://data.snapdrgn.net/person/671952>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/152302> .
+            
+        <http://data.snapdrgn.net/person/671953>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/31601> .
+            
+        <http://data.snapdrgn.net/person/671954>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/86278> .
+            
+        <http://data.snapdrgn.net/person/671955>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140717> .
+            
+        <http://data.snapdrgn.net/person/671956>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140733> .
+            
+        <http://data.snapdrgn.net/person/671957>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/110350> .
+            
+        <http://data.snapdrgn.net/person/671958>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/79110> .
+            
+        <http://data.snapdrgn.net/person/671959>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/56519> .
+            
+        <http://data.snapdrgn.net/person/671960>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/111484> .
+            
+        <http://data.snapdrgn.net/person/671961>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/119500> .
+            
+        <http://data.snapdrgn.net/person/671962>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/188568> .
+            
+        <http://data.snapdrgn.net/person/671963>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/134568> .
+            
+        <http://data.snapdrgn.net/person/671964>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/60399> .
+            
+        <http://data.snapdrgn.net/person/671965>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/140788> .
+            
+        <http://data.snapdrgn.net/person/671966>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/181037> .
+            
+        <http://data.snapdrgn.net/person/671967>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/52718> .
+            
+        <http://data.snapdrgn.net/person/671968>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/168780> .
+            
+        <http://data.snapdrgn.net/person/671969>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/61862> .
+            
+        <http://data.snapdrgn.net/person/671970>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/189406> .
+            
+        <http://data.snapdrgn.net/person/671971>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/169394> .
+            
+        <http://data.snapdrgn.net/person/671972>
+            prov:wasDerivedFrom <http://collection.britishmuseum.org/id/person-institution/193071> .
+            
+        
