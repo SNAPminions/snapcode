@@ -1,0 +1,1 @@
+The merging process is taking same person found in two different prosopographies and merging the two snap records.
