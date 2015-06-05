@@ -58,11 +58,43 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * -----------------------------------------------------------------------------
  */
 
- body  { margin: 5px; }
- div.group {padding: 2pt; margin-bottom: 10pt; }
- h3 {color: black; }
- td { vertical-align: top; }
+body  { 
+	margin: 5px; 
+}
  
+.group {
+	padding: 2pt; 
+	margin-bottom: 10pt;
+}
+
+
+
+#pageButton1 {
+	background-color: transparent;
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 10%;
+}
+
+#pageButton2 {
+	background-color: transparent;
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 25%;
+}
+
+#pageButton1:hover {
+	color: white;
+	background-color: black;
+}
+
+#pageButton2:hover {
+	color: white;
+	background-color: black;
+}
+
  
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
@@ -183,11 +215,13 @@ h2 {
 h3 {
 	font-size: 22px;
 	line-height: 1.0909090909;
+	margin-top: 20px;
 }
 
 h4 {
 	font-size: 20px;
 	line-height: 1.2;
+	margin-top: 10px;
 }
 
 h5 {
@@ -445,13 +479,12 @@ textarea {
 table,
 th,
 td {
-	border: 1px solid rgba(0, 0, 0, 0.1);
+	border: transparent;
 }
 
 table {
 	border-collapse: separate;
 	border-spacing: 0;
-	border-width: 1px 0 0 1px;
 	margin-bottom: 24px;
 	width: 100%;
 }
@@ -477,10 +510,11 @@ del {
 }
 
 hr {
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: rgba(0, 0, 0, 0.2);
 	border: 0;
-	height: 1px;
-	margin-bottom: 23px;
+	height: 2px;
+	margin-bottom: 2px;
+	margin-top: 15px;
 }
 
 /* Support a widely-adopted but non-standard selector for text selection styles
@@ -2783,7 +2817,7 @@ a.post-thumbnail:hover {
 	text-transform: uppercase;
 }
 
-.widget.widget_recent_entries, .widget.widget_recent_comments, .widget.widget_archive {
+.widget {
 	border-top: 5px solid rgb(121,58,30);
 }
 
@@ -3829,7 +3863,7 @@ a.post-thumbnail:hover {
 	}
 
 	.site-content {
-		margin-right: 0;
+		margin-right: 29.04761904%;
 		margin-left: 182px;
 	}
 
