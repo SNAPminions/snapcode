@@ -540,6 +540,31 @@ hr {
 
 /* Input fields */
 
+.personSearch ol {
+	list-style-type: decimal;
+}
+
+.personSearch a {
+	color: rgb(170,79,22);
+	text-decoration: underline;
+}
+
+.personSearch a:hover {
+	color: grey;
+	text-decoration: underline;
+}
+
+
+.searchbox {
+	padding: 0;
+	line-height: 1.5;
+}
+
+.searchbutton {
+	padding: 5px 10px 5px 10px;
+	vertical-align: inherit;
+}
+
 input,
 textarea {
 	border: 1px solid rgba(0, 0, 0, 0.1);
