@@ -1,6 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<title>SNAP:DRGN {{ title }}</title>
+<title>SNAP:DRGN Search: place</title>
 <link href="../../../../design/style.css" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 </head>
@@ -39,15 +39,25 @@
 
 				<div id="content" class="site-content" role="main">
 					<div class="personSearch">
-						<b>Place URI:</b> 
-						<input class="searchbox" type="text" name="snapID" value="http://www.lgpn.ox.ac.uk/placecode/LGPN_50130" size=50>
-						<button class="searchbutton" type="button">Search</button>
-						<br/>-OR-<br/>
-						<b>Place Name:</b>
-						<input class="searchbox" type="text" name="snapURI" size=30>
-						<button class="searchbutton" type="button">Search</button>
-						<br/><br/>
-						<p>*Not all places in SNAP are expressed as Pleiades, but neither do all have names.</p>
+					<table>
+						<tr>
+							<td><b>Place URI:</b></td>
+							<td><input class="searchbox" type="text" name="snapID" value="http://www.lgpn.ox.ac.uk/placecode/LGPN_50130" size="45"></td>
+							<td><button class="searchbutton" type="button">Search</button></td>
+						</tr>
+						<tr>	
+							<td>-OR-</td>
+						</tr>
+						<tr>
+							<td><b>Place Name:</b></td>
+							<td><input class="searchbox" type="text" name="snapURI" size="30"></td>
+							<td><button class="searchbutton" type="button">Search</button></td>
+						</tr>
+						<tr>
+							<td colspan="3"><br/>
+							*Not all places in SNAP are expressed as Pleiades, but neither do all have names.</td>
+						</tr>
+					</table>
 						
 						<hr/>
 						<br/>

@@ -567,7 +567,7 @@ hr {
 
 input,
 textarea {
-	border: 1px solid rgba(0, 0, 0, 0.1);
+	border: 1px solid rgba(0, 0, 0, 0.3);
 	border-radius: 2px;
 	color: #2b2b2b;
 	padding: 8px 10px 7px;
@@ -579,7 +579,7 @@ textarea {
 
 input:focus,
 textarea:focus {
-	border: 1px solid rgba(0, 0, 0, 0.3);
+	border: 1px solid rgba(0, 0, 0, 0.5);
 	outline: 0;
 }
 
