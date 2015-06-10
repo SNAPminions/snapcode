@@ -1,7 +1,9 @@
+{% load static from staticfiles %}
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <title>SNAP:DRGN {{ title }}</title>
-<link href="../../../../design/style.css" rel="stylesheet" type="text/css" />
+<link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css' />
 </head>
 
@@ -10,7 +12,7 @@
 
 	<div id="site-header">
 		<a href="http://data.snapdrgn.net/person/1/" rel="home">
-			<img src="../../../../design/bannermain10.gif" width="1260" height="190" alt="Site Banner Image" />
+			<img src="{% static 'images/bannermain10.gif' %}" width="1260" height="190" alt="Site Banner Image" />
 		</a>
 	</div>
 	
